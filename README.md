@@ -15,15 +15,15 @@ Impact of stance on performance: Determine if fighters with an "Orthodox" stance
 Age and performance: Investigate if a fighter's age is correlated with their number of victories or defeats, exploring how experience and physical condition vary with age.
 Comparison between strikers and grapplers: Examine if fighters who land more significant strikes per minute (SLpM) are more successful than those who focus more on takedowns and submissions.
 
-#### Methodology
+## Methodology
 To carry out this analysis, a database of UFC fighters was collected and processed, including variables such as height, weight, reach, age, stance type, and combat performance statistics (SLpM, takedowns, submissions, etc.).
 
-#### The analysis includes:
+## The analysis includes:
 Descriptive analysis: Statistical summary of the physical and technical characteristics of the fighters.
 Data visualisation: Graphs and diagrams to illustrate the distribution and relationships between variables.
 Hypothesis testing: Statistical evaluation to confirm or refute the proposed hypotheses.
 
-#### Expected Results
+## Expected Results
 In summary, this project aims to shed more light on the factors that contribute to success in the UFC, using a data-driven approach to validate the proposed hypotheses.
 
 
