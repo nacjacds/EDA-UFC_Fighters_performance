@@ -1,0 +1,571 @@
+name,nickname,wins,losses,draws,height_cm,weight_in_kg,reach_in_cm,stance,date_of_birth,significant_strikes_landed_per_minute,significant_striking_accuracy,significant_strikes_absorbed_per_minute,significant_strike_defence,average_takedowns_landed_per_15_minutes,takedown_accuracy,takedown_defense,average_submissions_attempted_per_15_minutes,Name
+Jose Barreto,,0,1,0,,83.91,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,jose barreto
+Natalia Silva,,16,5,1,162.56,56.7,165.1,Southpaw,1997-02-03,5.2,48.0,2.23,65.0,0.68,33.0,92.0,0.0,natalia silva
+Rama Supandhi,Hellboy,8,4,0,165.1,56.7,167.64,Southpaw,1991-11-07,2.2,42.0,3.53,48.0,1.0,11.0,0.0,0.0,rama supandhi
+Justin Salas,J-Bomb,12,7,0,172.72,70.31,177.8,Southpaw,1982-03-13,3.42,43.0,2.96,68.0,2.43,20.0,0.0,0.0,justin salas
+Peter Petties,The Joker,5,3,0,180.34,65.77,182.88,Southpaw,1990-12-20,2.61,29.0,8.24,48.0,0.0,0.0,0.0,0.0,peter petties
+John Hosman,,18,8,1,177.8,61.23,,Southpaw,1980-11-13,1.11,38.0,1.52,45.0,0.0,0.0,46.0,0.0,john hosman
+Brandon Royval,Raw Dawg,15,6,0,175.26,56.7,172.72,Southpaw,1992-08-16,3.45,38.0,2.63,50.0,0.66,100.0,39.0,2.3,brandon royval
+Nicco Montano,,5,3,0,165.1,61.23,165.1,Southpaw,1988-12-16,5.6,41.0,4.43,64.0,2.25,54.0,69.0,0.4,nicco montano
+Yoshihisa Yamamoto,,14,25,1,187.96,99.79,,Southpaw,1970-07-04,1.65,38.0,3.05,53.0,1.0,20.0,50.0,0.6,yoshihisa yamamoto
+Tony DeSouza,,11,4,0,182.88,77.11,177.8,Southpaw,1974-07-26,1.12,52.0,1.57,41.0,2.25,42.0,40.0,1.5,tony desouza
+Andre Walker,,1,5,0,180.34,92.99,,Southpaw,,2.28,31.0,4.36,34.0,0.0,0.0,0.0,0.0,andre walker
+Yoislandy Izquierdo,Cuba,10,4,0,180.34,70.31,,Southpaw,1984-01-09,2.93,52.0,1.4,26.0,0.0,0.0,50.0,0.0,yoislandy izquierdo
+Rogerio Nogueira,Minotouro,23,10,0,187.96,92.99,190.5,Southpaw,1976-06-02,2.43,35.0,2.34,59.0,0.64,44.0,62.0,0.8,rogerio nogueira
+Luiz Cane,Banha,17,7,0,187.96,83.91,195.58,Southpaw,1981-04-24,4.79,41.0,5.0,60.0,0.56,28.0,100.0,0.3,luiz cane
+Mitch Gagnon,,12,5,0,165.1,61.23,165.1,Southpaw,1984-10-10,2.76,46.0,2.21,61.0,1.16,25.0,65.0,1.9,mitch gagnon
+Christian Lohsen,Hollywood,4,2,0,187.96,70.31,195.58,Southpaw,1995-01-24,5.27,49.0,6.93,44.0,0.0,0.0,0.0,2.0,christian lohsen
+Marcus LeVesseur,The Prospect,22,7,0,175.26,70.31,177.8,Southpaw,1982-07-17,2.55,64.0,3.7,37.0,3.89,36.0,83.0,0.6,marcus levesseur
+Cezar Ferreira,Mutante,13,8,0,185.42,83.91,198.12,Southpaw,1985-02-15,1.9,42.0,2.44,53.0,2.69,53.0,84.0,0.5,cezar ferreira
+Marcio Alexandre Junior,Lyoto,17,4,0,182.88,83.91,190.5,Southpaw,1989-05-05,1.61,45.0,2.89,42.0,0.35,20.0,66.0,0.7,marcio alexandre junior
+Dan Severn,The Beast,101,19,1,187.96,113.4,,Southpaw,1958-06-08,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,dan severn
+Thomas Almeida,Thominhas,22,5,0,170.18,65.77,177.8,Southpaw,1991-07-31,4.84,43.0,4.93,61.0,0.17,14.0,75.0,0.0,thomas almeida
+Geoff Neal,Handz of Steel,15,5,0,180.34,77.11,190.5,Southpaw,1990-08-28,5.22,50.0,5.6,58.0,0.51,44.0,87.0,0.1,geoff neal
+Jutaro Nakao,,25,19,4,175.26,77.11,,Southpaw,1970-11-30,0.53,38.0,1.06,44.0,0.38,50.0,56.0,0.0,jutaro nakao
+Gleison Tibau,,33,14,0,177.8,70.31,180.34,Southpaw,1983-10-07,1.95,31.0,2.51,63.0,4.08,53.0,92.0,0.8,gleison tibau
+Windri Patilima,,8,1,0,167.64,70.31,180.34,Southpaw,1993-07-19,0.31,50.0,7.64,31.0,0.0,0.0,0.0,0.0,windri patilima
+Jordan Griffin,Native Psycho,18,9,0,177.8,65.77,185.42,Southpaw,1990-02-28,2.52,46.0,3.02,50.0,1.45,35.0,42.0,1.9,jordan griffin
+Bo Nickal,,5,0,0,185.42,83.91,193.04,Southpaw,1996-01-14,2.76,62.0,0.55,75.0,11.04,50.0,0.0,13.8,bo nickal
+Montel Jackson,Quik,13,2,0,177.8,61.23,190.5,Southpaw,1992-04-24,3.36,53.0,1.41,64.0,3.42,71.0,69.0,0.3,montel jackson
+Maiara Amanajas dos Santos,,7,3,0,165.1,52.16,,Southpaw,1987-07-11,5.53,35.0,24.47,33.0,0.0,0.0,100.0,0.0,maiara amanajas dos santos
+Josh Shockman,The War Hammer,6,3,0,193.04,106.59,,Southpaw,1980-12-29,0.87,32.0,0.87,58.0,0.0,0.0,23.0,0.0,josh shockman
+Gilles Arsene,,1,1,0,175.26,86.18,,Southpaw,,0.06,10.0,2.45,32.0,0.0,0.0,0.0,0.0,gilles arsene
+Bendy Casimir,,20,14,2,165.1,65.77,,Southpaw,1980-06-10,0.74,27.0,3.42,54.0,0.0,0.0,100.0,0.0,bendy casimir
+Andre Muniz,Sergipano,23,6,0,185.42,83.91,198.12,Southpaw,1990-02-17,2.17,50.0,2.03,53.0,2.97,40.0,35.0,1.5,andre muniz
+Chad George,Savage,16,8,0,167.64,61.23,172.72,Southpaw,1982-04-30,1.26,50.0,1.11,65.0,3.08,46.0,0.0,1.3,chad george
+Benson Henderson,Smooth,24,7,0,175.26,77.11,177.8,Southpaw,1983-11-16,2.93,45.0,1.79,63.0,2.4,45.0,63.0,0.8,benson henderson
+Mark Hughes,,6,2,0,175.26,92.99,,Southpaw,1973-10-13,0.9,47.0,0.4,42.0,3.0,50.0,0.0,4.5,mark hughes
+Caio Machado,Bigfoot,8,2,1,193.04,113.4,198.12,Southpaw,1994-07-20,6.57,64.0,1.87,64.0,0.0,0.0,82.0,0.0,caio machado
+Trevin Jones,5 Star,13,10,0,170.18,61.23,177.8,Southpaw,1990-08-04,2.13,37.0,4.29,39.0,0.62,15.0,60.0,0.2,trevin jones
+Darrell Horcher,The Saint,13,4,0,177.8,70.31,177.8,Southpaw,1987-07-28,2.05,44.0,4.21,39.0,0.35,50.0,47.0,0.7,darrell horcher
+Alexandr Romanov,King Kong,17,2,0,187.96,118.84,190.5,Southpaw,1990-12-11,4.06,52.0,2.2,50.0,4.32,54.0,20.0,0.9,alexandr romanov
+Vinicius Salvador,,14,6,0,170.18,56.7,177.8,Southpaw,1996-07-24,5.44,42.0,6.05,49.0,0.38,11.0,86.0,0.0,vinicius salvador
+Dylan Salvador,,5,2,0,175.26,70.31,175.26,Southpaw,1993-05-20,4.34,37.0,11.57,46.0,0.0,0.0,0.0,0.0,dylan salvador
+Derrick Noble,The Eraser,27,15,1,175.26,77.11,,Southpaw,1978-08-14,6.21,40.0,3.79,59.0,0.0,0.0,0.0,0.0,derrick noble
+Nick Penner,The Quiet Assassin,11,3,0,193.04,92.99,,Southpaw,1980-03-26,1.25,30.0,4.6,38.0,0.0,0.0,40.0,0.0,nick penner
+Norifumi Yamamoto,Kid,18,6,0,162.56,61.23,167.64,Southpaw,1977-03-15,2.09,45.0,2.01,57.0,0.41,22.0,45.0,0.0,norifumi yamamoto
+Yuta Sasaki,Ulka,21,6,2,177.8,56.7,180.34,Southpaw,1989-10-07,2.16,41.0,2.5,50.0,3.03,43.0,41.0,1.2,yuta sasaki
+Azat Maksum,Qazaq,17,0,0,170.18,56.7,177.8,Southpaw,1995-02-02,3.07,24.0,5.4,61.0,2.0,18.0,0.0,0.0,azat maksum
+Marcelo Mello,,1,0,0,170.18,77.11,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,marcelo mello
+Akbarh Arreola,El Caballero,23,11,1,177.8,70.31,180.34,Southpaw,1983-01-14,2.32,45.0,4.01,56.0,1.07,100.0,33.0,0.4,akbarh arreola
+Yoshihiro Nakao,Kiss,9,3,0,182.88,99.79,,Southpaw,1972-06-25,1.73,35.0,2.06,64.0,2.69,46.0,0.0,0.5,yoshihiro nakao
+Joe Giannetti,,6,1,0,182.88,70.31,187.96,Southpaw,1995-07-05,1.93,38.0,2.8,40.0,1.0,16.0,0.0,0.0,joe giannetti
+Rick Roufus,,4,6,0,182.88,93.89,,Southpaw,,0.53,33.0,1.06,33.0,0.0,0.0,50.0,0.0,rick roufus
+Sheldon Westcott,,10,3,1,185.42,77.11,180.34,Southpaw,1984-08-20,2.26,40.0,3.73,37.0,3.23,37.0,14.0,0.0,sheldon westcott
+Gina Mazany,Danger,7,6,0,167.64,56.7,172.72,Southpaw,1988-08-19,3.73,50.0,3.52,50.0,4.34,52.0,33.0,0.2,gina mazany
+Jinh Yu Frey,,11,10,0,160.02,52.16,165.1,Southpaw,1985-05-20,2.97,43.0,4.23,52.0,1.02,36.0,90.0,0.3,jinh yu frey
+Sumudaerji,The Tibetan Eagle,16,5,0,172.72,56.7,182.88,Southpaw,1996-01-20,4.83,54.0,2.75,62.0,0.32,100.0,66.0,0.6,sumudaerji
+Yusaku Kinoshita,,6,3,0,182.88,77.11,180.34,Southpaw,2000-08-21,4.65,50.0,5.12,51.0,0.0,0.0,50.0,0.0,yusaku kinoshita
+Mando Gutierrez,El Toro,7,2,0,167.64,61.23,177.8,Southpaw,1997-02-24,0.8,75.0,1.33,50.0,1.0,100.0,40.0,1.0,mando gutierrez
+Erik Koch,Phoenix,16,6,0,177.8,77.11,180.34,Southpaw,1988-10-04,2.33,42.0,2.82,47.0,1.02,42.0,81.0,1.0,erik koch
+Chris Price,The Exorcist,19,4,0,187.96,83.91,,Southpaw,1982-11-09,1.44,66.0,2.59,48.0,0.0,0.0,33.0,2.2,chris price
+Olivier Aubin-Mercier,The Canadian Gangster,11,5,0,175.26,70.31,177.8,Southpaw,1989-02-23,2.48,51.0,2.97,55.0,2.36,33.0,70.0,0.5,olivier aubin-mercier
+William Gomis,Jaguar,13,2,0,182.88,65.77,185.42,Southpaw,1997-06-13,2.62,46.0,1.49,75.0,1.06,60.0,81.0,0.7,william gomis
+Kron Gracie,,5,2,0,175.26,65.77,177.8,Southpaw,1988-07-11,3.74,44.0,6.82,53.0,0.47,25.0,0.0,0.5,kron gracie
+Johny Hendricks,Bigg Rigg,18,8,0,175.26,83.91,175.26,Southpaw,1983-09-12,3.49,45.0,3.99,53.0,3.83,46.0,63.0,0.3,johny hendricks
+Motonobu Tezuka,,28,12,7,170.18,61.23,,Southpaw,1987-08-29,0.87,23.0,2.8,51.0,1.5,11.0,0.0,0.5,motonobu tezuka
+Danny Barlow,LeftHand2God,7,0,0,187.96,77.11,200.66,Southpaw,1995-08-02,12.15,57.0,5.32,61.0,0.0,0.0,0.0,0.0,danny barlow
+Orlando Wiet,The Gladiator,1,5,0,177.8,77.11,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,orlando wiet
+Javier Vazquez,Showtime,16,5,0,170.18,65.77,175.26,Southpaw,1977-07-16,2.43,36.0,1.99,72.0,2.56,52.0,57.0,1.5,javier vazquez
+Marnic Mann,The Sawed-Off Savage,6,2,0,152.4,52.16,162.56,Southpaw,1993-03-05,1.1,42.0,4.93,31.0,1.83,30.0,16.0,0.0,marnic mann
+Greg Rebello,Ribz,24,8,0,182.88,108.86,185.42,Southpaw,1982-06-13,2.61,39.0,2.92,58.0,0.0,0.0,0.0,0.0,greg rebello
+Ikram Aliskerov,,15,1,0,182.88,83.91,193.04,Southpaw,1992-12-07,8.24,65.0,7.15,36.0,2.33,33.0,0.0,2.3,ikram aliskerov
+Donnie Chappell,,0,1,0,180.34,80.74,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,donnie chappell
+Sean Salmon,,18,21,0,177.8,83.91,,Southpaw,1977-09-11,1.49,33.0,2.03,65.0,4.06,50.0,0.0,0.0,sean salmon
+Alan Jouban,Brahma,17,7,0,182.88,77.11,185.42,Southpaw,1981-11-25,5.67,50.0,3.77,60.0,0.51,44.0,58.0,0.3,alan jouban
+Katsuya Inoue,,19,9,4,175.26,76.2,,Southpaw,1979-08-10,3.41,24.0,12.89,51.0,0.0,0.0,66.0,0.0,katsuya inoue
+Shelton Graves,The Gravedigger,7,3,0,187.96,115.67,193.04,Southpaw,1985-10-23,2.19,69.0,0.81,33.0,4.86,57.0,0.0,0.0,shelton graves
+Alexander Yakovlev,Russian Thunder,24,10,1,190.5,70.31,187.96,Southpaw,1984-07-18,1.74,47.0,2.41,58.0,1.66,35.0,72.0,0.1,alexander yakovlev
+Kennedy Nzechukwu,African Savage,12,4,0,195.58,92.99,210.82,Southpaw,1992-06-13,4.86,46.0,4.27,51.0,0.68,50.0,80.0,0.3,kennedy nzechukwu
+Kevin Casey,King,9,5,2,180.34,83.91,195.58,Southpaw,1981-06-15,2.27,53.0,3.76,46.0,0.79,22.0,27.0,0.4,kevin casey
+Shonie Carter,Mr. International,51,31,7,177.8,77.11,,Southpaw,1972-05-03,1.62,36.0,2.32,47.0,0.75,66.0,75.0,0.0,shonie carter
+Top Noi Kiwram,,9,5,0,165.1,56.7,170.18,Southpaw,1992-08-15,4.47,59.0,3.23,66.0,2.72,85.0,74.0,0.0,top noi kiwram
+Eric Smith,,1,1,0,,,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,eric smith
+Matt Andersen,,14,8,1,187.96,104.33,,Southpaw,1971-05-29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,matt andersen
+Alex Stiebling,The Brazilian Killa,19,11,1,187.96,92.99,,Southpaw,,1.77,42.0,1.45,52.0,0.35,66.0,66.0,0.7,alex stiebling
+Todd Moore,,16,7,0,175.26,77.11,180.34,Southpaw,1983-12-30,1.83,26.0,2.3,57.0,0.78,14.0,54.0,0.0,todd moore
+Darren Till,The Gorilla,18,5,1,182.88,83.91,187.96,Southpaw,1992-12-24,2.3,46.0,3.31,56.0,0.55,46.0,69.0,0.0,darren till
+Magomed Sultanakhmedov,,18,6,0,187.96,83.91,,Southpaw,,0.0,0.0,2.4,42.0,9.0,100.0,0.0,9.0,magomed sultanakhmedov
+Dokonjonosuke Mishima,,21,7,2,170.18,70.31,,Southpaw,1972-04-19,1.06,41.0,1.22,52.0,2.47,40.0,25.0,1.4,dokonjonosuke mishima
+Jimmy Ambriz,The Titan,17,21,1,187.96,142.88,,Southpaw,1970-01-26,0.83,29.0,3.76,40.0,3.13,57.0,100.0,0.8,jimmy ambriz
+John Lewis,,3,4,3,182.88,70.31,,Southpaw,,0.0,0.0,4.0,66.0,0.0,0.0,0.0,0.0,john lewis
+Sai Wang,The Fire Kylin,20,6,1,182.88,77.11,,Southpaw,1986-01-14,3.17,46.0,2.27,53.0,0.0,0.0,77.0,0.0,sai wang
+James Lee,,15,3,0,180.34,92.99,,Southpaw,1973-09-22,1.4,42.0,3.72,27.0,13.95,50.0,0.0,7.0,james lee
+Ashley Yoder,SpiderMonkey,8,9,0,170.18,52.16,175.26,Southpaw,1987-10-20,3.42,39.0,4.13,47.0,1.09,27.0,66.0,0.6,ashley yoder
+Kyle Watson,,13,8,1,182.88,70.31,,Southpaw,1979-08-09,3.67,35.0,3.25,62.0,0.0,0.0,100.0,0.0,kyle watson
+JJ Aldrich,,13,6,0,165.1,56.7,170.18,Southpaw,1992-09-29,4.05,46.0,4.53,60.0,0.71,25.0,66.0,0.0,jj aldrich
+Demian Maia,,28,11,0,185.42,77.11,182.88,Southpaw,1977-11-06,1.8,43.0,2.07,63.0,2.49,24.0,61.0,1.0,demian maia
+Jason High,The Kansas City Bandit,21,6,0,172.72,70.31,185.42,Southpaw,1981-10-12,1.28,42.0,1.56,48.0,2.36,63.0,37.0,2.8,jason high
+Roger Narvaez,Silverback,8,3,0,190.5,83.91,,Southpaw,1983-09-09,2.12,37.0,3.32,64.0,0.0,0.0,50.0,0.9,roger narvaez
+Danny Roberts,Hot Chocolate,18,8,0,185.42,77.11,187.96,Southpaw,1987-07-14,3.18,39.0,3.73,50.0,0.24,9.0,57.0,0.2,danny roberts
+Akiyo Nishiura,Wicky Akiyo,13,8,1,172.72,63.05,,Southpaw,1983-08-08,1.59,57.0,1.26,57.0,0.0,0.0,52.0,0.3,akiyo nishiura
+Jonathan Martinez,Dragon,19,4,0,172.72,61.23,177.8,Southpaw,1994-04-20,4.64,50.0,3.76,58.0,0.44,41.0,69.0,0.1,jonathan martinez
+Leah Letson,Nidas,5,3,0,170.18,65.77,180.34,Southpaw,1992-08-21,3.06,41.0,3.84,52.0,0.51,50.0,76.0,0.0,leah letson
+Elias Garcia,,6,2,0,165.1,56.7,170.18,Southpaw,1992-09-13,1.59,27.0,5.05,50.0,0.68,14.0,33.0,1.4,elias garcia
+Rex Holman,Big Dog,4,2,0,190.5,92.99,,Southpaw,,2.75,34.0,7.25,40.0,0.0,0.0,100.0,0.0,rex holman
+Ramon Taveras,The Savage,9,2,0,172.72,61.23,177.8,Southpaw,1994-01-09,7.2,58.0,6.17,66.0,0.0,0.0,0.0,0.0,ramon taveras
+Tommy Hayden,Wild Card,11,3,0,175.26,65.77,,Southpaw,1986-03-11,1.48,27.0,2.05,55.0,3.42,33.0,66.0,0.0,tommy hayden
+Artem Lobov,The Russian Hammer,13,15,1,175.26,65.77,165.1,Southpaw,1986-08-11,3.52,41.0,4.82,50.0,0.39,25.0,52.0,0.0,artem lobov
+John Halverson,The Hurricane,16,8,0,175.26,70.31,,Southpaw,1972-09-08,2.94,43.0,5.29,47.0,0.0,0.0,66.0,2.0,john halverson
+Diego Sanchez,Nightmare,31,13,0,177.8,77.11,182.88,Southpaw,1981-12-31,2.69,37.0,3.02,56.0,1.51,24.0,46.0,0.8,diego sanchez
+Holly Holm,The Preacher's Daughter,15,6,0,172.72,61.23,175.26,Southpaw,1981-10-17,3.21,40.0,2.79,56.0,0.9,30.0,78.0,0.1,holly holm
+Jinnosuke Kashimura,,4,2,0,170.18,70.31,180.34,Southpaw,2001-08-12,0.21,50.0,7.37,25.0,3.16,100.0,0.0,6.3,jinnosuke kashimura
+Josiah Harrell,Muscle Hamster,7,0,0,170.18,77.11,172.72,Southpaw,1998-11-13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,josiah harrell
+Zarrukh Adashev,The Lion,4,4,0,165.1,56.7,165.1,Southpaw,1992-07-29,3.65,40.0,3.04,64.0,0.0,0.0,100.0,0.5,zarrukh adashev
+Zach Zane,The Hurricane,10,7,0,170.18,65.77,175.26,Southpaw,1989-12-14,0.87,56.0,6.67,20.0,0.0,0.0,26.0,0.0,zach zane
+Justin Willis,Big Pretty,8,2,0,185.42,119.75,198.12,Southpaw,1987-07-19,3.37,59.0,2.57,57.0,0.96,66.0,36.0,0.0,justin willis
+Ryan Parker,,0,1,0,190.5,106.59,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,ryan parker
+Raymond Daniels,,0,1,0,187.96,83.91,,Southpaw,,0.0,0.0,2.61,38.0,0.0,0.0,33.0,3.0,raymond daniels
+Tito Jones,,11,8,0,172.72,65.77,,Southpaw,1981-07-31,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,tito jones
+Wagnney Fabiano,The Silencer,16,4,0,167.64,65.77,175.26,Southpaw,1975-07-14,1.19,38.0,0.66,70.0,3.44,64.0,100.0,0.4,wagnney fabiano
+Mateusz Gamrot,Gamer,23,2,0,177.8,70.31,177.8,Southpaw,1990-12-11,2.97,50.0,3.17,60.0,4.36,30.0,90.0,0.2,mateusz gamrot
+Jason Ireland,The Irish Tornado,19,9,1,175.26,73.03,,Southpaw,1979-12-30,1.2,25.0,2.07,51.0,3.59,75.0,0.0,1.2,jason ireland
+Ryuki Ueyama,,12,18,5,180.34,81.65,,Southpaw,1976-04-17,0.13,21.0,1.4,46.0,0.5,100.0,0.0,1.5,ryuki ueyama
+Adam Fugitt,,9,4,0,185.42,77.11,195.58,Southpaw,1989-01-12,4.3,54.0,5.13,48.0,3.43,33.0,50.0,0.0,adam fugitt
+Kazula Vargas,,12,5,0,172.72,70.31,180.34,Southpaw,1985-08-15,3.65,53.0,1.77,57.0,0.4,25.0,30.0,0.4,kazula vargas
+Daniel Omielanczuk,,19,8,1,182.88,112.04,187.96,Southpaw,1982-08-31,3.09,57.0,3.29,47.0,0.56,26.0,68.0,0.1,daniel omielanczuk
+Brock Larson,,42,10,0,180.34,77.11,180.34,Southpaw,1977-08-23,1.39,46.0,1.5,55.0,2.67,34.0,43.0,2.0,brock larson
+Teruto Ishihara,Yashabo,10,7,2,170.18,61.23,175.26,Southpaw,1991-07-23,3.26,44.0,3.63,53.0,0.5,16.0,30.0,0.0,teruto ishihara
+Takashi Sugiura,,1,3,0,180.34,102.06,,Southpaw,1970-05-31,1.37,40.0,2.08,53.0,1.33,66.0,0.0,0.0,takashi sugiura
+Khalil Rountree Jr.,,13,5,0,185.42,92.99,193.04,Southpaw,1990-02-26,3.73,38.0,4.16,50.0,0.0,0.0,56.0,0.1,khalil rountree jr.
+Yuri Vaulin,,0,1,0,193.04,89.36,,Southpaw,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,yuri vaulin
+Tatsuya Mizuno,,16,12,1,185.42,92.99,,Southpaw,1981-06-02,2.25,37.0,3.52,53.0,1.19,25.0,40.0,3.6,tatsuya mizuno
+Azamat Murzakanov,The Professional,13,0,0,177.8,92.99,180.34,Southpaw,1989-04-12,4.57,57.0,3.12,57.0,0.75,16.0,83.0,0.0,azamat murzakanov
+Melquizael Costa,Melk Cauthy,20,6,0,177.8,70.31,180.34,Southpaw,1996-09-14,5.11,45.0,2.53,64.0,1.87,37.0,42.0,0.6,melquizael costa
+Katsuhiko Nagata,,6,7,3,170.18,69.85,,Southpaw,1973-10-31,1.05,19.0,1.5,63.0,0.98,28.0,28.0,0.0,katsuhiko nagata
+Sergei Pavlovich,,18,2,0,190.5,116.57,213.36,Southpaw,1992-05-13,8.21,48.0,4.61,55.0,0.0,0.0,75.0,0.0,sergei pavlovich
+Goran Reljic,,15,8,0,190.5,92.99,205.74,Southpaw,1984-03-20,1.69,37.0,2.69,59.0,1.69,50.0,33.0,1.1,goran reljic
+Jonathan Wiezorek,,11,2,0,190.5,113.4,,Southpaw,1978-02-10,1.27,58.0,5.47,31.0,1.91,20.0,0.0,0.0,jonathan wiezorek
+Nobuhiko Takada,,2,6,2,182.88,99.79,,Southpaw,1962-04-12,0.31,24.0,1.92,39.0,1.15,20.0,0.0,0.0,nobuhiko takada
+Tom Gallicchio,Da Tank,19,10,0,177.8,77.11,,Southpaw,1986-09-23,3.53,26.0,7.07,43.0,1.0,11.0,0.0,0.0,tom gallicchio
+Tatiana Suarez,,11,0,0,165.1,52.16,167.64,Southpaw,1990-12-19,4.27,63.0,1.38,51.0,6.2,61.0,100.0,0.9,tatiana suarez
+Adrian Diaz,,11,4,1,177.8,65.77,,Southpaw,1988-04-26,0.48,42.0,3.84,51.0,2.4,50.0,0.0,0.0,adrian diaz
+Sarah Frota,A Treta,9,2,0,167.64,56.7,175.26,Southpaw,1987-04-14,4.52,52.0,2.57,55.0,0.0,0.0,53.0,0.0,sarah frota
+Takeshi Yamazaki,,15,12,3,172.72,63.05,,Southpaw,,0.57,25.0,1.57,47.0,4.5,50.0,100.0,1.0,takeshi yamazaki
+Kazuki Tokudome,,18,7,1,180.34,70.31,185.42,Southpaw,1987-03-04,2.26,41.0,3.63,53.0,2.0,38.0,78.0,0.0,kazuki tokudome
+Kiyoshi Tamura,,32,13,3,180.34,83.91,,Southpaw,1969-12-17,2.44,53.0,1.44,60.0,0.58,60.0,45.0,0.2,kiyoshi tamura
+Carli Judice,Crispy,3,1,0,170.18,56.7,172.72,Southpaw,1999-03-02,11.2,57.0,12.27,54.0,0.0,0.0,50.0,0.0,carli judice
+Gideon Ray,,17,15,1,177.8,83.91,,Southpaw,1973-05-27,2.08,40.0,2.58,53.0,1.49,100.0,0.0,0.0,gideon ray
+Royce Gracie,,15,2,3,185.42,79.38,,Southpaw,1966-12-12,0.88,41.0,1.13,37.0,0.0,0.0,66.0,0.8,royce gracie
+Elias Urbina,,3,1,0,190.5,83.91,195.58,Southpaw,1993-10-09,3.85,37.0,6.17,50.0,0.0,0.0,0.0,0.0,elias urbina
+Masakatsu Funaki,,39,13,2,182.88,83.91,,Southpaw,1969-03-13,1.82,68.0,2.92,35.0,0.0,0.0,0.0,5.5,masakatsu funaki
+Nathan Coy,Soulforce,15,7,0,177.8,77.11,175.26,Southpaw,1978-07-24,3.88,52.0,2.4,61.0,3.17,47.0,50.0,0.0,nathan coy
+Jeremy Lang,,21,2,0,180.34,92.99,,Southpaw,1975-05-11,1.13,50.0,1.41,42.0,4.22,60.0,0.0,4.2,jeremy lang
+Ode Osbourne,The Jamaican Sensation,12,6,0,170.18,56.7,185.42,Southpaw,1992-01-09,3.74,39.0,4.41,45.0,1.37,27.0,68.0,0.3,ode osbourne
+Dongi Yang,The Ox,13,3,0,177.8,83.91,185.42,Southpaw,1984-12-07,3.55,51.0,3.21,63.0,1.7,41.0,61.0,0.5,dongi yang
+Gerald Harris,,23,5,0,180.34,83.91,195.58,Southpaw,1979-11-19,1.41,29.0,1.58,62.0,2.96,54.0,72.0,0.0,gerald harris
+Bryce Mitchell,Thug Nasty,16,2,0,177.8,65.77,177.8,Southpaw,1994-10-04,2.34,58.0,1.64,58.0,3.51,41.0,33.0,1.6,bryce mitchell
+Nick Hein,Sergeant,14,5,0,167.64,70.31,167.64,Southpaw,1984-04-24,2.65,35.0,3.61,59.0,0.86,33.0,83.0,0.0,nick hein
+Timothy Johnson,,12,4,0,190.5,120.2,195.58,Southpaw,1985-03-13,3.43,45.0,3.08,44.0,1.09,24.0,69.0,0.0,timothy johnson
+Dong Hyun Kim,Stun Gun,22,4,1,187.96,77.11,193.04,Southpaw,1981-11-17,2.12,49.0,1.89,58.0,2.93,43.0,71.0,0.6,dong hyun kim
+Cody Durden,,16,4,1,170.18,56.7,170.18,Southpaw,1991-03-29,3.13,49.0,2.94,52.0,5.41,50.0,80.0,0.4,cody durden
+Jiniushiyue,Little King Kong,13,2,0,172.72,56.7,175.26,Southpaw,2000-12-09,3.49,39.0,1.66,67.0,1.66,66.0,100.0,0.0,jiniushiyue
+Makwan Amirkhani,Mr. Finland,17,9,0,177.8,65.77,182.88,Southpaw,1988-11-08,1.33,44.0,2.98,46.0,3.96,43.0,35.0,1.1,makwan amirkhani
+Oleksandr Doskalchuk,,10,2,0,167.64,56.7,,Southpaw,1990-03-13,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,oleksandr doskalchuk
+Clint Godfrey,,13,3,0,167.64,61.23,,Southpaw,1982-10-21,0.57,31.0,0.96,65.0,0.85,25.0,50.0,0.0,clint godfrey
+Henry Miller,Sentoryu,6,16,0,170.18,122.47,,Southpaw,1969-07-16,1.25,36.0,2.16,54.0,0.55,25.0,60.0,0.0,henry miller
+Joao Elias,Alicate,17,4,1,160.02,56.7,162.56,Southpaw,1995-01-08,0.4,50.0,6.47,20.0,0.0,0.0,50.0,0.0,joao elias
+Josh Hendricks,,19,11,0,187.96,106.59,,Southpaw,1976-08-28,0.98,20.0,11.8,29.0,0.0,0.0,0.0,0.0,josh hendricks
+Jan Nortje,The Giant,2,6,0,185.42,140.61,,Southpaw,1975-04-11,3.32,51.0,4.5,32.0,0.0,0.0,66.0,2.9,jan nortje
+Takenori Sato,,19,11,7,177.8,77.11,,Southpaw,1985-06-08,0.46,33.0,12.92,9.0,0.0,0.0,0.0,0.0,takenori sato
+Beneil Dariush,,22,6,1,177.8,70.31,182.88,Southpaw,1989-05-06,3.78,48.0,2.65,57.0,1.9,34.0,80.0,0.9,beneil dariush
+Bryan Vetell,,4,3,0,190.5,120.2,,Southpaw,1977-07-26,2.74,60.0,2.13,41.0,0.0,0.0,0.0,0.0,bryan vetell
+Lloyd Van Dams,,0,1,0,185.42,108.86,,Southpaw,1972-03-05,0.0,0.0,3.01,15.0,0.0,0.0,0.0,0.0,lloyd van dams
+Ion Cutelaba,The Hulk,17,9,1,185.42,92.99,190.5,Southpaw,1993-12-14,4.63,43.0,3.29,48.0,4.75,58.0,77.0,0.0,ion cutelaba
+Hailey Cowan,All Hail,7,3,0,172.72,61.23,170.18,Southpaw,1992-02-12,2.97,42.0,3.17,34.0,1.5,33.0,80.0,0.0,hailey cowan
+Ariel Beck,,4,5,0,167.64,56.7,167.64,Southpaw,1990-09-16,4.44,34.0,4.31,64.0,0.0,0.0,0.0,0.0,ariel beck
+Rico Farrington,The Triggerman,7,3,0,193.04,77.11,200.66,Southpaw,1989-06-19,6.33,41.0,7.2,51.0,0.0,0.0,20.0,0.0,rico farrington
+Kenny Florian,KenFlo,14,6,0,177.8,65.77,187.96,Southpaw,1976-05-26,2.41,40.0,1.85,63.0,2.22,33.0,60.0,1.3,kenny florian
+Frank Mir,,18,11,0,190.5,119.75,200.66,Southpaw,1979-05-24,2.18,47.0,3.84,38.0,2.02,40.0,54.0,2.0,frank mir
+Amilcar Alves,,15,12,0,182.88,77.11,,Southpaw,1988-08-08,0.5,46.0,2.02,30.0,0.0,0.0,53.0,0.0,amilcar alves
+Francisco Trinaldo,Massaranduba,28,9,0,175.26,77.11,177.8,Southpaw,1978-08-24,3.13,45.0,2.67,60.0,0.98,42.0,60.0,0.5,francisco trinaldo
+Jalin Turner,The Tarantula,14,7,0,190.5,70.31,195.58,Southpaw,1995-05-18,6.02,48.0,4.63,41.0,0.88,55.0,75.0,1.2,jalin turner
+Ashkan Mokhtarian,The Assassin,13,3,0,167.64,56.7,170.18,Southpaw,1985-09-15,1.95,43.0,3.66,43.0,0.54,16.0,33.0,0.0,ashkan mokhtarian
+Papy Abedi,Makambo,10,4,0,180.34,83.91,,Southpaw,1978-06-30,2.8,55.0,3.15,48.0,3.47,57.0,50.0,1.3,papy abedi
+Irwin Rivera,The Beast,10,6,0,167.64,61.23,170.18,Southpaw,1989-02-14,3.36,44.0,5.07,57.0,1.0,16.0,70.0,0.0,irwin rivera
+Ludovit Klein,Mr. Highlight,20,4,1,170.18,70.31,182.88,Southpaw,1995-02-22,3.49,54.0,3.53,53.0,1.52,45.0,83.0,0.0,ludovit klein
+Gabriella Fernandes,Gabi,8,3,0,167.64,56.7,167.64,Southpaw,1993-08-13,1.63,47.0,2.7,47.0,0.0,0.0,61.0,0.0,gabriella fernandes
+Cung Le,,9,3,0,175.26,83.91,177.8,Southpaw,1972-05-25,4.36,48.0,2.98,66.0,1.37,71.0,88.0,0.3,cung le
+Islam Makhachev,,25,1,0,177.8,70.31,177.8,Southpaw,1991-10-27,2.46,60.0,1.27,61.0,3.17,60.0,90.0,1.0,islam makhachev
+Hamdy Abdelwahab,The Hammer,5,0,0,187.96,119.75,182.88,Southpaw,1993-01-22,3.87,52.0,3.13,59.0,3.0,75.0,0.0,0.0,hamdy abdelwahab
+Boston Salmon,Boom Boom,6,3,0,175.26,61.23,175.26,Southpaw,1990-11-20,4.13,37.0,7.75,59.0,0.0,0.0,100.0,0.0,boston salmon
+Paddy Holohan,The Hooligan,12,2,1,177.8,56.7,175.26,Orthodox,1988-05-03,2.13,46.0,2.81,46.0,2.88,47.0,71.0,1.3,paddy holohan
+Angela Magana,Your Majesty,11,9,0,154.94,52.16,165.1,Orthodox,1983-08-02,1.53,28.0,4.92,42.0,0.4,25.0,28.0,0.4,angela magana
+Diego Brandao,DB,22,11,0,170.18,65.77,162.56,Orthodox,1987-05-27,2.94,47.0,3.38,62.0,3.21,68.0,80.0,0.6,diego brandao
+Casey O'Neill,King,9,1,0,167.64,56.7,175.26,Orthodox,1997-10-07,8.77,55.0,5.9,58.0,1.96,42.0,71.0,0.7,casey o'neill
+Allen Berube,Monstah Lobstah,4,3,0,172.72,70.31,,Orthodox,1974-08-25,0.92,80.0,0.92,33.0,6.87,100.0,0.0,3.4,allen berube
+Mizuto Hirota,Pugnus,18,10,2,170.18,70.31,170.18,Orthodox,1981-05-05,3.36,40.0,3.5,54.0,1.36,50.0,58.0,0.1,mizuto hirota
+Antonio Braga Neto,,9,3,0,190.5,83.91,195.58,Orthodox,1987-10-29,1.36,33.0,3.92,45.0,3.07,37.0,0.0,0.5,antonio braga neto
+Mu Bae Choi,,12,6,0,187.96,104.33,,Orthodox,1970-06-27,1.55,49.0,3.65,44.0,3.12,75.0,60.0,1.0,mu bae choi
+WonBin Ki,The Danger,17,9,0,180.34,70.31,185.42,Orthodox,1991-02-11,5.47,47.0,3.24,55.0,0.0,0.0,0.0,0.0,wonbin ki
+Darren Uyenoyama,BC,10,6,0,167.64,56.7,165.1,Orthodox,1979-10-15,1.34,39.0,2.21,66.0,1.42,33.0,35.0,0.7,darren uyenoyama
+Felix Lee Mitchell,,2,7,0,,,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,felix lee mitchell
+Ian Entwistle,Enty,9,3,0,165.1,61.23,,Orthodox,1986-11-19,0.11,7.0,7.36,31.0,0.0,0.0,0.0,12.1,ian entwistle
+Jeka Saragih,,14,3,0,172.72,65.77,175.26,Orthodox,1995-01-01,2.76,50.0,2.84,40.0,2.37,100.0,66.0,0.6,jeka saragih
+Garrett Armfield,,9,3,0,167.64,61.23,177.8,Orthodox,1996-10-09,5.29,44.0,3.52,57.0,0.0,0.0,75.0,0.0,garrett armfield
+Karine Silva,Killer,17,4,0,165.1,56.7,170.18,Orthodox,1993-12-02,3.37,35.0,3.37,50.0,2.45,60.0,0.0,4.1,karine silva
+Evangelista Santos,Cyborg,21,18,0,177.8,77.11,193.04,Orthodox,1977-12-12,3.94,36.0,6.01,49.0,0.78,100.0,50.0,0.4,evangelista santos
+Rilley Dutro,,11,4,0,172.72,56.7,,Orthodox,1987-09-03,4.74,54.0,5.95,33.0,0.0,0.0,83.0,0.0,rilley dutro
+Shaheen Santana,Shazam,6,1,0,185.42,70.31,190.5,Orthodox,1991-06-04,0.82,42.0,1.65,40.0,0.0,0.0,0.0,2.8,shaheen santana
+James Barnes,Mooka,14,5,0,172.72,61.23,180.34,Orthodox,1982-05-28,0.57,34.0,3.02,39.0,1.08,16.0,40.0,0.0,james barnes
+Aspen Ladd,,9,3,0,167.64,61.23,167.64,Orthodox,1995-03-01,3.78,47.0,4.65,47.0,1.56,47.0,62.0,0.6,aspen ladd
+Thomas Denny,The Wildman,27,21,1,177.8,77.11,,Orthodox,1971-04-19,2.36,45.0,4.69,40.0,1.48,17.0,42.0,1.5,thomas denny
+Angela Hill,Overkill,16,13,0,160.02,52.16,162.56,Orthodox,1985-01-12,5.44,50.0,4.94,61.0,0.73,34.0,75.0,0.1,angela hill
+Nayara Maia,Capita,7,1,1,165.1,56.7,167.64,Orthodox,1990-07-25,0.6,36.0,3.33,43.0,1.0,33.0,0.0,1.0,nayara maia
+Robert Sanchez,Littlefury,8,2,0,167.64,56.7,167.64,Orthodox,1986-03-05,0.96,40.0,1.78,46.0,3.61,62.0,50.0,0.7,robert sanchez
+Luis Gomez,Tiger Junior,4,1,0,170.18,65.77,172.72,Orthodox,1995-01-28,1.57,33.0,4.03,55.0,4.48,50.0,33.0,0.0,luis gomez
+Jonny Parsons,The Sluggernaut,9,3,0,175.26,77.11,175.26,Orthodox,1991-09-06,4.65,44.0,4.89,60.0,0.0,0.0,66.0,0.0,jonny parsons
+Hashem Arkhagha,,6,1,0,187.96,83.91,190.5,Orthodox,1989-09-11,1.84,44.0,8.97,43.0,0.0,0.0,50.0,0.0,hashem arkhagha
+Will Kerr,,9,3,0,177.8,70.31,175.26,Orthodox,1982-10-21,1.91,42.0,6.22,33.0,0.0,0.0,0.0,14.3,will kerr
+Joseph Holmes,Uglyman Joe,8,4,0,193.04,83.91,203.2,Orthodox,1995-07-04,2.88,53.0,3.08,54.0,1.49,40.0,50.0,0.8,joseph holmes
+Dean Barry,The Sniper,4,2,0,177.8,77.11,182.88,Orthodox,1992-07-03,9.31,40.0,4.66,51.0,0.0,0.0,100.0,0.0,dean barry
+Trevin Giles,,16,5,0,182.88,77.11,187.96,Orthodox,1992-08-06,2.97,53.0,2.09,59.0,1.27,55.0,71.0,0.3,trevin giles
+Damacio Page,The Angel of Death,19,10,0,167.64,61.23,167.64,Orthodox,1982-09-30,2.05,38.0,2.47,51.0,2.63,64.0,23.0,0.9,damacio page
+Kelly Faszholz,,4,2,0,172.72,61.23,,Orthodox,1985-04-09,4.01,48.0,3.61,52.0,0.0,0.0,44.0,0.0,kelly faszholz
+Jesse Lennox,The Ox,14,4,0,175.26,77.11,182.88,Orthodox,1982-03-10,2.69,32.0,3.2,64.0,1.22,66.0,63.0,0.3,jesse lennox
+Naoya Ogawa,,7,2,0,193.04,115.67,,Orthodox,1968-03-31,2.41,42.0,1.66,47.0,1.25,100.0,66.0,1.2,naoya ogawa
+Josh Samman,Anqa,13,4,0,190.5,83.91,200.66,Orthodox,1988-03-14,2.08,52.0,2.47,34.0,1.09,33.0,33.0,0.4,josh samman
+Marcelo Aguiar,,2,3,1,177.8,77.11,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,marcelo aguiar
+Eldari Kurtanidze,,0,1,0,167.64,106.59,,Orthodox,1972-04-16,0.47,20.0,3.72,60.0,0.0,0.0,0.0,0.0,eldari kurtanidze
+William Knight,Knightmare,11,5,0,177.8,92.99,185.42,Orthodox,1988-04-03,2.62,56.0,3.3,35.0,1.78,40.0,48.0,0.4,william knight
+Fedor Emelianenko,The Last Emperor,36,5,0,182.88,104.33,187.96,Orthodox,1976-09-28,3.18,51.0,1.0,63.0,2.0,63.0,82.0,1.9,fedor emelianenko
+Sim Kai Xiong,Kobra,5,1,0,165.1,56.7,167.64,Orthodox,1997-09-06,3.19,63.0,4.56,47.0,6.84,28.0,0.0,0.0,sim kai xiong
+Henrique da Silva,Frankenstein,14,5,0,190.5,92.99,193.04,Orthodox,1989-09-01,3.89,60.0,5.28,40.0,0.25,14.0,22.0,0.2,henrique da silva
+Daniel Gracie,,5,4,1,187.96,102.06,,Orthodox,,1.9,38.0,1.33,59.0,0.36,100.0,80.0,2.1,daniel gracie
+Scott Harper,,12,7,0,182.88,83.91,,Orthodox,1972-04-14,1.3,54.0,4.98,47.0,3.25,100.0,0.0,0.0,scott harper
+Chris Wilson,The Professor,18,10,0,185.42,77.11,190.5,Orthodox,1977-06-07,2.32,50.0,1.36,55.0,1.31,50.0,60.0,1.6,chris wilson
+Mark Scanlon,,9,2,0,175.26,77.11,,Orthodox,,2.2,35.0,3.33,48.0,3.0,75.0,25.0,2.0,mark scanlon
+Bobby Voelker,Vicious,19,13,0,182.88,77.11,187.96,Orthodox,1979-04-26,4.01,35.0,5.84,42.0,1.04,50.0,66.0,0.0,bobby voelker
+Todd Duffee,,9,3,0,190.5,117.93,198.12,Orthodox,1985-12-06,5.93,37.0,2.87,56.0,0.72,25.0,90.0,0.0,todd duffee
+Alistair Overeem,The Demolition Man,47,19,0,193.04,120.2,203.2,Orthodox,1980-05-17,3.67,64.0,2.44,57.0,1.42,55.0,73.0,0.8,alistair overeem
+Amir Sadollah,,6,5,0,177.8,77.11,190.5,Orthodox,1980-08-27,4.71,46.0,3.55,60.0,0.57,27.0,60.0,0.3,amir sadollah
+Igor Pokrajac,The Duke,28,13,0,182.88,92.99,187.96,Orthodox,1979-01-02,2.25,45.0,4.26,40.0,0.87,29.0,51.0,0.2,igor pokrajac
+Ed Ratcliff,9mm,7,3,0,177.8,70.31,180.34,Orthodox,1983-03-05,2.71,38.0,2.96,63.0,0.28,16.0,53.0,0.0,ed ratcliff
+Patrick Smith,,20,17,0,187.96,102.06,,Orthodox,1963-08-28,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,patrick smith
+Larry Cureton,,0,2,0,187.96,108.86,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,larry cureton
+Trey Waters,The Truth,8,1,0,195.58,77.11,195.58,Orthodox,1995-02-21,6.45,45.0,3.95,61.0,0.78,50.0,77.0,0.8,trey waters
+Aoriqileng,The Mongolian Murderer,25,10,0,170.18,61.23,175.26,Orthodox,1993-06-25,5.31,50.0,5.56,50.0,1.64,46.0,58.0,0.0,aoriqileng
+Jaime Alvarez,,6,1,0,172.72,56.7,175.26,Orthodox,1988-03-08,2.73,40.0,4.53,56.0,1.0,33.0,50.0,0.0,jaime alvarez
+Kenny Robertson,,15,5,0,177.8,77.11,187.96,Orthodox,1984-02-14,3.72,47.0,3.02,52.0,1.37,26.0,57.0,0.8,kenny robertson
+Forrest Griffin,,19,7,0,190.5,92.99,195.58,Orthodox,1979-03-16,4.38,36.0,2.81,61.0,1.05,48.0,57.0,0.7,forrest griffin
+Marquel Mederos,,8,1,0,177.8,70.31,175.26,Orthodox,1996-11-30,5.78,60.0,1.93,63.0,0.0,0.0,100.0,0.0,marquel mederos
+Karl Reed,No Worries,6,1,0,190.5,92.99,198.12,Orthodox,1988-10-27,2.04,44.0,3.84,38.0,1.06,22.0,53.0,0.0,karl reed
+Aleksandar Rakic,,14,3,0,193.04,92.99,198.12,Orthodox,1992-02-06,4.01,50.0,2.3,53.0,0.82,25.0,90.0,0.2,aleksandar rakic
+Kerry Schall,Meat Truck,24,13,0,187.96,120.2,,Orthodox,1971-08-09,0.94,11.0,4.84,63.0,0.0,0.0,0.0,0.0,kerry schall
+Erin Blanchfield,Cold Blooded,12,1,0,162.56,56.7,167.64,Orthodox,1999-05-04,5.58,52.0,3.32,62.0,2.86,36.0,83.0,1.2,erin blanchfield
+Gregor Gillespie,The Gift,14,1,0,170.18,70.31,180.34,Orthodox,1986-11-13,3.74,52.0,2.3,57.0,6.86,48.0,100.0,0.8,gregor gillespie
+Callan Potter,The Rockstar,18,9,0,182.88,77.11,182.88,Orthodox,1984-06-09,3.18,50.0,4.72,58.0,3.29,66.0,100.0,0.0,callan potter
+Zhang Mingyang,Mountain Tiger,16,6,0,187.96,92.99,190.5,Orthodox,1998-08-16,8.86,56.0,5.57,59.0,0.0,0.0,0.0,0.0,zhang mingyang
+Jose Torres,Shorty,8,1,0,162.56,56.7,165.1,Orthodox,1992-08-02,4.37,36.0,9.84,50.0,1.28,33.0,75.0,0.0,jose torres
+Tsuyoshi Kohsaka,TK,27,19,2,180.34,102.06,,Orthodox,1970-03-06,1.88,38.0,4.41,54.0,1.32,20.0,33.0,0.4,tsuyoshi kohsaka
+Valmir Lazaro,Bidu,15,5,0,182.88,70.31,185.42,Orthodox,1985-08-15,4.87,37.0,4.09,61.0,1.33,40.0,96.0,0.0,valmir lazaro
+Ramazan Kuramagomedov,,8,0,0,185.42,77.11,185.42,Orthodox,1996-08-23,11.67,67.0,9.13,54.0,1.0,14.0,0.0,0.0,ramazan kuramagomedov
+Rose Namajunas,Thug,12,6,0,165.1,56.7,165.1,Orthodox,1992-06-29,3.68,40.0,3.53,62.0,1.49,48.0,60.0,0.6,rose namajunas
+Antonio Arroyo,,9,5,0,190.5,83.91,185.42,Orthodox,1989-07-01,2.82,66.0,2.02,50.0,1.14,41.0,41.0,0.2,antonio arroyo
+Danny Sabatello,Italian Gangster,9,1,0,177.8,61.23,180.34,Orthodox,1993-03-31,2.07,57.0,0.2,25.0,3.0,75.0,100.0,1.0,danny sabatello
+Jerrod Sanders,J-Reazie,16,3,0,172.72,61.23,182.88,Orthodox,1979-10-01,0.88,64.0,1.14,46.0,2.2,33.0,50.0,1.6,jerrod sanders
+Kurt Pellegrino,Batman,16,7,0,172.72,70.31,177.8,Orthodox,1979-05-07,2.45,43.0,1.94,63.0,2.9,54.0,69.0,0.8,kurt pellegrino
+Igor Zinoviev,Houdini,4,1,2,185.42,90.26,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,igor zinoviev
+Danny Henry,The Hatchet,12,4,0,182.88,65.77,185.42,Orthodox,1988-07-17,5.2,51.0,4.16,45.0,0.74,33.0,50.0,2.2,danny henry
+Tyson Pedro,,10,4,0,190.5,92.99,200.66,Orthodox,1991-09-17,3.11,61.0,2.53,54.0,0.94,36.0,52.0,0.9,tyson pedro
+Murilo Rua,Ninja,20,13,1,180.34,83.91,,Orthodox,1980-05-22,2.48,45.0,1.85,53.0,1.97,45.0,37.0,1.2,murilo rua
+KyeungPyo Kim,Redhorse,11,4,0,175.26,70.31,180.34,Orthodox,1992-01-29,6.77,46.0,6.32,63.0,3.87,40.0,100.0,0.0,kyeungpyo kim
+Matt Dwyer,,9,4,0,193.04,77.11,193.04,Orthodox,1989-12-17,2.57,34.0,3.24,54.0,0.44,10.0,60.0,0.0,matt dwyer
+Joey Gilbert,,2,3,0,180.34,70.31,,Orthodox,1976-06-05,0.61,42.0,4.44,31.0,0.0,0.0,0.0,0.0,joey gilbert
+Bryson Kamaka,,12,20,1,180.34,77.11,,Orthodox,,9.47,60.0,12.63,0.0,0.0,0.0,100.0,0.0,bryson kamaka
+Koji Oishi,,25,10,10,172.72,77.11,,Orthodox,1977-05-31,1.43,9.0,17.86,43.0,0.0,0.0,0.0,0.0,koji oishi
+Dos Caras Jr.,,9,5,0,193.04,102.06,,Orthodox,1977-05-25,0.77,23.0,1.2,59.0,0.0,0.0,72.0,0.0,dos caras jr.
+Harvey Park,Fightbot,12,3,0,182.88,70.31,177.8,Orthodox,1986-03-22,3.77,50.0,7.21,33.0,0.0,0.0,0.0,0.0,harvey park
+Rafael Alves,The Turn,20,12,0,172.72,70.31,172.72,Orthodox,1990-11-14,1.85,48.0,3.3,58.0,0.29,25.0,44.0,1.5,rafael alves
+Terrion Ware,Flash,17,9,0,172.72,61.23,180.34,Orthodox,1986-03-31,4.02,32.0,6.07,50.0,0.5,22.0,44.0,0.0,terrion ware
+Fredy Serrano,El Profe,3,2,0,160.02,56.7,165.1,Orthodox,1979-09-22,1.58,26.0,1.89,61.0,2.84,25.0,84.0,0.0,fredy serrano
+Alex Pereira,Poatan,9,2,0,193.04,92.99,200.66,Orthodox,1987-07-07,5.0,62.0,3.65,50.0,0.19,100.0,70.0,0.4,alex pereira
+Shara Magomedov,Bullet,12,0,0,187.96,83.91,185.42,Orthodox,1994-05-16,7.53,73.0,4.33,28.0,0.0,0.0,57.0,0.0,shara magomedov
+Nariman Abbasov,Bayraktar,28,4,0,172.72,70.31,167.64,Orthodox,1994-02-01,3.0,20.0,5.67,46.0,0.0,0.0,66.0,0.0,nariman abbasov
+Igor Araujo,,25,9,0,185.42,77.11,195.58,Orthodox,1980-12-06,1.52,42.0,2.86,49.0,0.86,15.0,22.0,0.6,igor araujo
+Bobby Southworth,,10,6,0,187.96,92.99,,Orthodox,1969-12-16,0.99,39.0,1.38,65.0,3.98,78.0,64.0,1.3,bobby southworth
+Bethe Correia,Pitbull,11,6,1,165.1,61.23,162.56,Orthodox,1983-06-22,4.37,43.0,4.93,56.0,0.39,18.0,85.0,0.0,bethe correia
+Wu Yanan,Mulan,13,6,0,172.72,61.23,167.64,Orthodox,1996-04-18,4.23,41.0,4.95,49.0,0.62,30.0,63.0,0.2,wu yanan
+Assu Almabayev,Zulfikar,18,2,0,162.56,56.7,165.1,Orthodox,1994-01-25,3.18,65.0,0.49,77.0,3.67,40.0,0.0,3.7,assu almabayev
+Will Ribeiro,,10,2,0,172.72,61.23,,Orthodox,1983-02-17,1.83,28.0,1.64,74.0,1.15,100.0,50.0,2.9,will ribeiro
+Eddie Sanchez,The Manic Hispanic,15,8,0,187.96,104.33,187.96,Orthodox,1982-11-04,3.45,43.0,3.3,43.0,1.13,26.0,42.0,0.0,eddie sanchez
+Roosevelt Roberts,The Predator,12,5,0,187.96,70.31,185.42,Orthodox,1994-02-11,3.05,44.0,3.12,52.0,1.39,29.0,52.0,0.9,roosevelt roberts
+Dennis Siver,,23,11,0,167.64,65.77,177.8,Orthodox,1979-01-13,3.87,32.0,2.67,65.0,0.87,32.0,65.0,0.3,dennis siver
+Azunna Anyanwu,Zulu,14,5,0,185.42,113.85,,Orthodox,1981-08-05,2.47,42.0,2.47,69.0,0.65,100.0,0.0,0.0,azunna anyanwu
+Armen Petrosyan,Superman,9,2,0,190.5,83.91,180.34,Orthodox,1990-11-02,5.97,52.0,3.03,56.0,0.23,33.0,36.0,0.0,armen petrosyan
+TJ O'Brien,The Spider,20,8,0,187.96,70.31,,Orthodox,1987-01-01,3.77,46.0,4.78,57.0,0.94,100.0,0.0,0.0,tj o'brien
+Brad Tavares,,20,9,0,185.42,83.91,187.96,Orthodox,1987-12-21,3.38,43.0,3.03,56.0,0.81,26.0,82.0,0.0,brad tavares
+Bibulatov Magomed,Chaborz,14,2,0,165.1,56.7,165.1,Orthodox,1988-08-22,3.6,51.0,1.83,52.0,2.85,40.0,75.0,0.0,bibulatov magomed
+Jeremy Kennedy,JBC,11,1,0,180.34,65.77,180.34,Orthodox,1992-09-16,2.22,46.0,2.58,47.0,5.73,52.0,66.0,0.0,jeremy kennedy
+Khalid Murtazaliev,,14,2,0,182.88,83.91,193.04,Orthodox,1993-07-15,4.8,69.0,0.4,78.0,7.5,100.0,33.0,0.0,khalid murtazaliev
+Kazuki Okubo,,7,9,0,180.34,79.38,,Orthodox,,1.53,38.0,1.97,46.0,0.51,25.0,36.0,2.0,kazuki okubo
+Mostapha Al-Turk,,6,6,0,187.96,111.13,195.58,Orthodox,1973-07-14,1.36,19.0,3.61,53.0,0.0,0.0,0.0,0.0,mostapha al-turk
+Jorge Rivera,El Conquistador,20,9,0,185.42,83.91,185.42,Orthodox,1972-02-28,3.16,48.0,2.64,54.0,0.84,50.0,63.0,0.1,jorge rivera
+Angelo Antonio,,1,4,0,,92.99,,Orthodox,,1.09,50.0,7.64,50.0,0.0,0.0,0.0,0.0,angelo antonio
+Pawel Pawlak,,12,3,0,182.88,77.11,185.42,Orthodox,1989-02-08,1.67,33.0,2.22,53.0,1.0,37.0,70.0,0.0,pawel pawlak
+Iouri Kotchkine,,7,4,1,187.96,106.59,,Orthodox,,0.67,38.0,4.92,15.0,0.0,0.0,25.0,0.0,iouri kotchkine
+Jimmy Lawson,Greedy,4,2,0,182.88,120.2,195.58,Orthodox,1991-11-13,0.07,8.0,1.6,44.0,0.0,0.0,0.0,0.0,jimmy lawson
+Ron Faircloth,,33,20,0,175.26,92.99,,Orthodox,1979-08-16,0.39,40.0,8.9,42.0,0.0,0.0,0.0,0.0,ron faircloth
+Jerrel Venetiaan,,4,3,0,185.42,88.45,,Orthodox,1971-03-09,0.81,33.0,1.51,67.0,0.0,0.0,60.0,0.0,jerrel venetiaan
+Thiago Santos,Marreta,22,11,0,187.96,92.99,193.04,Orthodox,1984-01-07,3.72,48.0,2.57,53.0,0.88,33.0,65.0,0.1,thiago santos
+Greg Hardy,Prince of War,7,5,0,195.58,120.2,203.2,Orthodox,1988-07-28,4.79,50.0,3.31,55.0,0.2,33.0,64.0,0.0,greg hardy
+Leiticia Pestova,,0,2,0,167.64,61.23,,Orthodox,1984-01-15,0.0,0.0,24.62,44.0,0.0,0.0,0.0,0.0,leiticia pestova
+Mayra Bueno Silva,Sheetara,10,2,1,167.64,61.23,167.64,Orthodox,1991-08-22,4.16,54.0,4.71,57.0,0.35,50.0,68.0,1.6,mayra bueno silva
+Edimilson Souza,Kevin,15,5,0,182.88,65.77,187.96,Orthodox,1984-10-17,4.65,44.0,2.91,58.0,0.0,0.0,50.0,0.0,edimilson souza
+Renee Forte,,8,4,0,170.18,70.31,180.34,Orthodox,1987-03-27,2.08,32.0,2.12,63.0,2.32,58.0,66.0,0.0,renee forte
+Balajin,The Snow Leopard,23,4,0,175.26,65.77,182.88,Orthodox,1992-03-31,1.4,33.0,2.73,50.0,2.0,20.0,66.0,0.0,balajin
+Baergeng Jieleyisi,,12,4,0,175.26,61.23,180.34,Orthodox,1995-11-24,2.53,38.0,3.87,45.0,0.0,0.0,0.0,0.0,baergeng jieleyisi
+Katlyn Chookagian,Blonde Fighter,18,5,0,175.26,56.7,172.72,Orthodox,1988-12-28,4.59,34.0,4.41,63.0,0.27,15.0,54.0,0.3,katlyn chookagian
+CJ Keith,,8,4,0,182.88,70.31,,Orthodox,1986-08-09,0.86,50.0,1.82,50.0,0.0,0.0,62.0,0.0,cj keith
+Alavutdin Gadjiev,,18,13,1,187.96,83.91,,Orthodox,1982-06-23,0.99,27.0,0.99,57.0,0.0,0.0,50.0,0.0,alavutdin gadjiev
+Edson Silva,Paredao,14,12,0,,92.99,,Orthodox,,2.69,14.0,5.37,50.0,0.0,0.0,0.0,0.0,edson silva
+Jose Johnson,Lobo Solitario,16,8,0,182.88,61.23,180.34,Orthodox,1995-05-20,2.8,60.0,1.73,55.0,0.62,50.0,36.0,0.6,jose johnson
+Sean Spencer,Black Magic,12,6,0,177.8,77.11,187.96,Orthodox,1987-06-25,4.24,32.0,4.02,60.0,0.14,33.0,68.0,0.0,sean spencer
+Gan McGee,The Giant,13,5,0,208.28,120.2,,Orthodox,1976-11-20,2.2,29.0,2.31,59.0,0.65,25.0,83.0,0.0,gan mcgee
+Thomas Paull,Juggernaut,11,4,0,170.18,70.31,170.18,Orthodox,1994-10-15,7.33,33.0,8.67,64.0,0.0,0.0,0.0,0.0,thomas paull
+Geronimo dos Santos,Mondragon,39,19,0,190.5,119.75,,Orthodox,1980-08-17,1.09,33.0,8.73,41.0,0.0,0.0,33.0,0.0,geronimo dos santos
+Sergio Moraes,The Panther,14,6,1,182.88,77.11,182.88,Orthodox,1982-07-23,2.42,42.0,3.73,59.0,1.2,38.0,75.0,0.4,sergio moraes
+Keith Berish,Sha Bang Bang,5,1,0,182.88,92.99,,Orthodox,1985-11-14,3.58,36.0,4.81,62.0,1.76,40.0,0.0,0.0,keith berish
+Brian Bowles,,10,3,0,170.18,61.23,177.8,Orthodox,1980-06-22,2.36,26.0,2.98,64.0,1.39,70.0,54.0,1.4,brian bowles
+Don Frye,The Predator,20,9,1,185.42,99.34,,Orthodox,1965-11-23,2.87,64.0,3.57,37.0,0.91,57.0,45.0,0.7,don frye
+Jeff Hughes,Lights Out,10,4,0,187.96,113.4,195.58,Orthodox,1988-05-17,3.95,51.0,3.67,60.0,0.71,50.0,45.0,0.0,jeff hughes
+Mauricio Ruffy,,9,1,0,180.34,77.11,190.5,Orthodox,1996-06-17,4.75,58.0,4.07,58.0,0.0,0.0,100.0,0.0,mauricio ruffy
+Eduardo Neves,Bebezao,7,2,0,187.96,119.29,198.12,Orthodox,2000-03-16,7.69,65.0,6.15,55.0,5.77,66.0,0.0,0.0,eduardo neves
+Ahmad Hassanzada,Lion of the Ring,10,2,0,185.42,70.31,190.5,Orthodox,1996-11-20,2.59,34.0,4.42,40.0,2.5,22.0,0.0,0.0,ahmad hassanzada
+Oban Elliott,The Welsh Gangster,9,2,0,182.88,77.11,182.88,Orthodox,1997-12-19,3.87,44.0,2.8,61.0,4.0,44.0,0.0,0.0,oban elliott
+Josh Bryant,The Beast,15,4,0,177.8,83.91,,Orthodox,1980-04-23,1.1,20.0,6.1,43.0,0.0,0.0,0.0,0.0,josh bryant
+Jon Olav Einemo,The Viking,6,3,0,198.12,114.76,,Orthodox,1975-12-10,2.15,52.0,3.05,52.0,1.73,55.0,43.0,0.0,jon olav einemo
+Jon Jones,Bones,27,1,0,193.04,112.49,213.36,Orthodox,1987-07-19,4.29,57.0,2.22,64.0,1.93,45.0,95.0,0.5,jon jones
+Brad Riddell,Quake,10,4,0,170.18,70.31,180.34,Orthodox,1991-09-30,4.71,53.0,3.53,53.0,1.77,36.0,63.0,0.0,brad riddell
+Luciano Pereira,El Torito,13,1,0,,56.7,,Orthodox,2001-01-09,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,luciano pereira
+Bevon Lewis,,7,3,0,190.5,83.91,200.66,Orthodox,1991-05-05,3.73,43.0,2.67,54.0,0.0,0.0,66.0,0.0,bevon lewis
+Joao Zeferino,The Brazilian Samurai,21,9,0,180.34,77.11,,Orthodox,1986-01-15,0.83,36.0,2.6,48.0,0.5,5.0,50.0,1.0,joao zeferino
+Jarno Errens,,13,5,1,180.34,65.77,185.42,Orthodox,1994-11-17,1.67,38.0,2.93,52.0,0.0,0.0,33.0,0.5,jarno errens
+Seth Baczynski,The Polish Pistola,20,14,0,190.5,77.11,190.5,Orthodox,1981-10-26,3.08,31.0,3.14,51.0,0.89,16.0,48.0,0.8,seth baczynski
+Tonya Evinger,Triple Threat,19,8,0,170.18,61.23,177.8,Orthodox,1981-06-04,1.16,42.0,4.02,38.0,0.93,30.0,33.0,0.9,tonya evinger
+Demetrious Johnson,Mighty Mouse,27,3,1,160.02,56.7,167.64,Orthodox,1986-08-13,3.43,54.0,1.66,67.0,3.35,56.0,65.0,0.5,demetrious johnson
+Ho Bae Myeon,,13,5,1,180.34,76.2,,Orthodox,,3.16,16.0,3.16,83.0,0.0,0.0,0.0,0.0,ho bae myeon
+Gilbert Burns,Durinho,22,6,0,177.8,77.11,180.34,Orthodox,1986-07-20,3.36,48.0,3.34,54.0,1.95,35.0,47.0,0.5,gilbert burns
+Sam Patterson,,10,2,1,190.5,70.31,198.12,Orthodox,1996-04-30,2.56,36.0,3.98,44.0,0.0,0.0,33.0,2.8,sam patterson
+Luke Zachrich,,14,4,0,187.96,83.91,187.96,Orthodox,1981-12-19,4.56,32.0,4.46,62.0,0.74,33.0,80.0,0.0,luke zachrich
+Bartosz Fabinski,The Butcher,15,5,0,182.88,77.11,190.5,Orthodox,1986-04-26,2.23,68.0,1.46,51.0,7.1,70.0,80.0,0.0,bartosz fabinski
+Bobby McAndrews,,1,3,0,,,,Orthodox,,2.56,83.0,1.03,50.0,0.0,0.0,33.0,7.7,bobby mcandrews
+Roy Nelson,Big Country,22,14,0,182.88,119.29,185.42,Orthodox,1976-06-20,2.18,36.0,4.79,46.0,1.14,27.0,65.0,0.1,roy nelson
+Murad Chunkaiev,,8,4,0,180.34,83.91,,Orthodox,,0.85,16.0,3.41,66.0,8.53,100.0,0.0,0.0,murad chunkaiev
+Steve Lopez,,13,6,1,180.34,70.31,,Orthodox,1984-07-30,1.39,24.0,2.69,62.0,0.0,0.0,37.0,0.0,steve lopez
+Gillian Robertson,The Savage,12,8,0,165.1,52.16,160.02,Orthodox,1995-05-17,2.6,45.0,3.21,55.0,2.46,41.0,43.0,0.9,gillian robertson
+Moise Rimbon,Swamp,23,11,3,177.8,92.99,,Orthodox,1977-04-20,0.8,34.0,1.0,71.0,1.0,50.0,37.0,0.0,moise rimbon
+Semmy Schilt,Hightower,26,14,1,208.28,120.2,,Orthodox,1973-10-27,1.2,50.0,1.31,53.0,0.0,0.0,47.0,1.1,semmy schilt
+Chris Gutierrez,El Guapo,20,5,2,175.26,61.23,170.18,Orthodox,1991-04-22,5.04,57.0,2.73,65.0,0.34,37.0,71.0,0.1,chris gutierrez
+Felipe Bunes,Felipinho,13,6,0,170.18,56.7,175.26,Orthodox,1989-10-29,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,felipe bunes
+Royce Alger,,3,2,0,177.8,90.26,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,royce alger
+Johnny Bedford,Brutal,21,13,1,177.8,61.23,180.34,Orthodox,1983-01-06,4.53,50.0,1.75,63.0,1.83,62.0,62.0,0.0,johnny bedford
+Charlie Brenneman,The Spaniard,19,8,0,177.8,70.31,177.8,Orthodox,1981-02-09,1.52,56.0,1.55,46.0,4.23,42.0,72.0,0.0,charlie brenneman
+Alberto Mina,Soldier of God,13,1,0,182.88,77.11,195.58,Orthodox,1982-05-02,3.23,38.0,3.7,47.0,1.85,20.0,50.0,0.0,alberto mina
+Thomas Longacre,,6,1,0,175.26,65.77,,Orthodox,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,thomas longacre
+Andy Ogle,The Little Axe,9,6,0,172.72,65.77,175.26,Orthodox,1989-02-16,2.24,44.0,2.23,50.0,1.44,26.0,58.0,0.0,andy ogle
+Richie Smullen,,3,1,1,175.26,70.31,172.72,Orthodox,1991-08-17,1.98,77.0,2.26,65.0,8.49,66.0,0.0,0.0,richie smullen
+Chris Manuel,,9,7,2,175.26,61.23,,Orthodox,1987-07-21,2.53,40.0,2.67,66.0,1.0,20.0,100.0,0.0,chris manuel
+Godofredo Pepey,,13,6,0,170.18,65.77,185.42,Orthodox,1987-07-02,2.32,38.0,3.23,47.0,0.37,7.0,35.0,1.5,godofredo pepey
+Ross Pearson,The Real Deal,20,16,0,172.72,70.31,175.26,Orthodox,1984-09-26,3.68,40.0,4.09,62.0,0.74,35.0,75.0,0.0,ross pearson
+Carlos Mota,Tizil,8,2,0,162.56,56.7,175.26,Orthodox,1995-04-15,0.8,41.0,1.13,54.0,0.0,0.0,50.0,1.0,carlos mota
+Issa Isakov,Determinator,10,3,0,175.26,70.31,177.8,Orthodox,1989-10-22,1.93,36.0,5.78,40.0,0.0,0.0,0.0,0.0,issa isakov
+Gregory Rodrigues,Robocop,14,5,0,190.5,83.91,190.5,Orthodox,1992-02-17,5.99,55.0,5.67,51.0,2.4,50.0,100.0,0.5,gregory rodrigues
+Ryan Gracie,,5,2,0,175.26,90.72,,Orthodox,1974-08-14,0.82,61.0,0.5,40.0,2.83,75.0,25.0,0.9,ryan gracie
+Tor Troeng,The Hammer,16,7,1,187.96,83.91,,Orthodox,1983-01-25,1.16,46.0,3.26,32.0,0.62,7.0,66.0,0.3,tor troeng
+David Mitchell,Daudi,22,7,0,182.88,77.11,190.5,Orthodox,1979-10-24,1.74,32.0,2.06,55.0,0.66,50.0,29.0,2.0,david mitchell
+Josh Parisian,,15,7,0,193.04,120.2,200.66,Orthodox,1989-06-28,4.54,48.0,4.81,41.0,0.99,33.0,46.0,0.2,josh parisian
+Charles McCarthy,Chainsaw,10,5,0,177.8,83.91,180.34,Orthodox,1980-08-06,0.18,12.0,4.03,56.0,2.67,60.0,0.0,2.7,charles mccarthy
+Viacheslav Borshchev,Slava Claus,7,3,1,180.34,70.31,175.26,Orthodox,1992-01-08,5.82,58.0,4.07,56.0,0.0,0.0,36.0,0.0,viacheslav borshchev
+Kyle Bochniak,Killer B,8,5,0,170.18,65.77,177.8,Orthodox,1987-02-05,2.63,31.0,5.11,58.0,1.14,15.0,62.0,0.0,kyle bochniak
+Neil Seery,2Tap,16,13,0,162.56,56.7,162.56,Orthodox,1979-08-30,3.56,41.0,3.79,58.0,0.78,27.0,53.0,1.6,neil seery
+Connor Matthews,The Controller,7,1,0,172.72,65.77,180.34,Switch,1992-05-31,5.13,44.0,5.57,55.0,3.5,58.0,50.0,1.0,connor matthews
+Akihiro Gono,,35,21,8,170.18,77.11,172.72,Switch,1974-10-07,2.18,48.0,2.67,63.0,1.01,84.0,46.0,0.5,akihiro gono
+Kevin Vallejos,El Chino,11,1,0,170.18,65.77,172.72,Switch,2001-12-08,4.73,44.0,5.8,51.0,0.0,0.0,66.0,0.0,kevin vallejos
+Gunnar Nelson,Gunni,19,5,1,180.34,77.11,182.88,Switch,1988-07-28,1.84,61.0,3.0,49.0,1.9,59.0,66.0,1.0,gunnar nelson
+Carlos Prates,The Nightmare,17,6,0,185.42,77.11,198.12,Switch,1993-08-17,4.81,63.0,3.69,47.0,0.0,0.0,0.0,0.0,carlos prates
+Daermisi Zhawupasi,,7,1,0,172.72,61.23,172.72,Switch,2000-03-13,1.24,51.0,2.75,34.0,6.19,75.0,64.0,2.1,daermisi zhawupasi
+Christian Aguilera,The Beast,14,8,0,175.26,77.11,182.88,Switch,1991-11-25,2.54,37.0,4.04,48.0,0.0,0.0,60.0,0.0,christian aguilera
+Cory Sandhagen,,17,4,0,180.34,61.23,177.8,Switch,1992-04-20,5.33,44.0,3.4,58.0,1.36,33.0,64.0,0.3,cory sandhagen
+Orion Cosce,Galaxy,8,2,0,180.34,77.11,180.34,Switch,1994-07-15,2.77,53.0,4.02,44.0,1.92,40.0,61.0,0.0,orion cosce
+Marcos Mariano,Dhalsim,6,6,0,185.42,70.31,193.04,Switch,1986-10-12,0.25,27.0,2.11,43.0,0.0,0.0,28.0,0.0,marcos mariano
+Jhonoven Pati,The Samoan Savage,6,4,0,185.42,83.91,190.5,Switch,1990-08-29,2.88,53.0,6.13,33.0,2.7,100.0,0.0,0.0,jhonoven pati
+Victor Altamirano,El Magnifico,12,3,0,172.72,56.7,177.8,Switch,1991-01-23,5.0,57.0,3.99,53.0,2.12,25.0,63.0,0.0,victor altamirano
+Matt Hughes,,45,9,0,175.26,77.11,185.42,Switch,1973-10-13,2.14,53.0,1.36,53.0,2.95,50.0,35.0,1.2,matt hughes
+Raul Rosas Jr.,El Nino Problema,8,1,0,175.26,61.23,170.18,Switch,2004-10-08,1.28,44.0,1.52,46.0,3.57,33.0,0.0,1.8,raul rosas jr.
+Charlie Ontiveros,American Bad Boy,11,9,0,187.96,70.31,187.96,Switch,1991-07-04,1.89,41.0,5.86,31.0,0.0,0.0,30.0,0.0,charlie ontiveros
+Spike Carlyle,Alpha Ginger,9,3,0,172.72,65.77,180.34,Switch,1993-05-06,2.55,54.0,3.85,30.0,3.34,36.0,57.0,0.5,spike carlyle
+Kamuela Kirk,The Jawaiian,12,6,0,177.8,70.31,190.5,Switch,1994-04-13,3.22,50.0,5.87,40.0,1.5,26.0,47.0,1.2,kamuela kirk
+Da'Mon Blackshear,The Monster,14,6,1,177.8,61.23,182.88,Switch,1994-08-12,4.28,47.0,4.09,48.0,2.34,37.0,66.0,0.8,da'mon blackshear
+James McSweeney,The Hammer,15,15,0,193.04,104.33,195.58,Switch,1980-10-24,3.94,55.0,4.33,42.0,0.52,33.0,100.0,1.1,james mcsweeney
+Rafael Fiziev,Ataman,12,3,0,172.72,70.31,180.34,Switch,1993-03-05,4.9,51.0,4.97,49.0,0.29,40.0,89.0,0.0,rafael fiziev
+Rodney Wallace,Shonuff the Master,26,15,1,175.26,92.99,182.88,Switch,1981-11-21,1.13,46.0,3.44,45.0,6.0,54.0,28.0,1.0,rodney wallace
+Roybert Echeverria,The Unbroken,7,1,0,165.1,56.7,170.18,Switch,1995-08-21,2.95,53.0,2.52,57.0,0.0,0.0,71.0,2.6,roybert echeverria
+Ottman Azaitar,Bulldozer,13,2,0,172.72,70.31,180.34,Switch,1990-02-20,5.73,51.0,4.96,48.0,0.0,0.0,100.0,0.0,ottman azaitar
+Solomon Renfro,The Black Dragon,8,2,0,175.26,77.11,182.88,Switch,1997-02-05,5.2,44.0,3.53,61.0,2.0,50.0,100.0,0.0,solomon renfro
+Brandon Thatch,Rukus,11,5,0,187.96,77.11,187.96,Switch,1985-07-11,2.7,42.0,3.63,52.0,1.36,66.0,50.0,0.7,brandon thatch
+David Abbott,Tank,10,15,0,182.88,120.2,,Switch,,1.35,30.0,3.55,38.0,1.07,33.0,66.0,0.0,david abbott
+Billy Goff,,9,2,0,177.8,77.11,182.88,Switch,1998-06-18,10.22,46.0,4.3,64.0,4.04,40.0,100.0,0.0,billy goff
+Benito Lopez,Golden Boy,10,2,0,177.8,61.23,185.42,Switch,1994-04-06,4.39,45.0,5.18,56.0,0.0,0.0,73.0,0.3,benito lopez
+Malcolm Gordon,X,14,7,0,170.18,56.7,180.34,Switch,1990-05-19,1.93,42.0,2.26,42.0,1.61,30.0,9.0,0.8,malcolm gordon
+Cameron Else,Camchida,10,6,0,175.26,61.23,180.34,Switch,1987-04-27,1.99,40.0,8.09,51.0,0.0,0.0,0.0,0.0,cameron else
+Charles Jourdain,Air,15,6,1,175.26,65.77,175.26,Switch,1995-11-27,5.71,49.0,4.21,58.0,0.1,16.0,47.0,0.5,charles jourdain
+Danny Silva,El Puma,8,1,0,180.34,65.77,177.8,Switch,1997-01-30,13.6,64.0,13.13,59.0,2.0,66.0,100.0,0.0,danny silva
+Kalindra Faria,,18,8,1,170.18,56.7,,Switch,1986-07-23,2.23,56.0,1.44,45.0,1.31,66.0,20.0,0.7,kalindra faria
+Zhalgas Zhumagulov,,14,9,0,162.56,56.7,167.64,Switch,1988-08-29,5.24,43.0,5.86,52.0,1.3,19.0,75.0,0.2,zhalgas zhumagulov
+Oluwale Bamgbose,Holy War Angel,6,4,0,180.34,83.91,198.12,Switch,1987-08-04,2.45,48.0,2.7,55.0,0.94,33.0,37.0,0.0,oluwale bamgbose
+Mickey Gall,,7,5,0,187.96,77.11,187.96,Switch,1992-01-22,2.94,46.0,4.25,49.0,1.21,30.0,36.0,1.9,mickey gall
+Hyder Amil,The Hurricane,8,0,0,175.26,65.77,177.8,Switch,1990-05-28,1.73,52.0,1.47,53.0,0.0,0.0,78.0,1.0,hyder amil
+Damon Jackson,The Leech,22,6,1,180.34,65.77,180.34,Switch,1988-08-08,3.02,40.0,3.46,50.0,2.44,34.0,40.0,1.6,damon jackson
+Rostem Akman,,6,2,0,177.8,77.11,182.88,Switch,1991-12-19,1.8,25.0,3.97,57.0,1.0,40.0,87.0,0.0,rostem akman
+Josh Wick,The White Mamba,12,6,0,175.26,70.31,175.26,Switch,1994-10-04,0.65,60.0,6.52,41.0,0.0,0.0,80.0,0.0,josh wick
+Edson Gomez,,6,2,0,172.72,77.11,175.26,Switch,1991-02-23,2.66,32.0,8.78,45.0,0.0,0.0,0.0,0.0,edson gomez
+Shauna Bannon,Mama B,5,1,0,165.1,52.16,165.1,Switch,1993-10-23,3.6,37.0,3.73,37.0,0.0,0.0,33.0,0.0,shauna bannon
+Ty Flores,Big Medicine,7,3,0,190.5,92.99,185.42,Switch,1993-12-22,2.0,37.0,7.8,25.0,1.0,9.0,0.0,0.0,ty flores
+Matt Dixon,Magic,9,1,0,177.8,77.11,190.5,Switch,1995-10-09,1.97,43.0,4.56,37.0,3.06,30.0,0.0,0.0,matt dixon
+Youssef Zalal,The Moroccan Devil,10,5,1,177.8,61.23,182.88,Switch,1996-09-04,2.75,48.0,1.75,64.0,2.14,31.0,60.0,1.1,youssef zalal
+Joao Pierini,,4,1,0,185.42,70.31,,Switch,1971-12-11,0.76,14.0,4.56,33.0,0.0,0.0,0.0,0.0,joao pierini
+Grigory Popov,,13,3,0,170.18,61.23,172.72,Switch,1984-04-18,3.63,37.0,4.2,55.0,0.0,0.0,45.0,0.0,grigory popov
+David Baron,,17,4,1,167.64,70.31,,Switch,1973-02-15,1.17,30.0,2.1,56.0,0.0,0.0,14.0,0.7,david baron
+Teddy Ash,Bear,14,5,0,185.42,83.91,185.42,Switch,1989-12-27,7.27,61.0,6.8,28.0,0.0,0.0,100.0,0.0,teddy ash
+Mike van Arsdale,,8,5,0,187.96,92.99,,Switch,1965-06-20,1.52,41.0,1.91,41.0,1.06,14.0,37.0,0.0,mike van arsdale
+Emil Meek,Valhalla,9,5,1,180.34,77.11,187.96,Switch,1988-08-20,2.52,39.0,2.53,38.0,0.25,33.0,47.0,1.0,emil meek
+Amanda Cooper,ABC,3,5,0,160.02,52.16,162.56,Switch,1991-10-22,3.55,44.0,3.2,51.0,1.53,38.0,28.0,1.8,amanda cooper
+Joseph Morales,,9,2,0,167.64,56.7,175.26,Switch,1994-08-22,1.58,37.0,1.72,60.0,0.53,50.0,23.0,2.6,joseph morales
+Herman Renting,,1,3,0,182.88,97.52,,Switch,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,herman renting
+AJ Fletcher,The Ghost,10,3,0,177.8,77.11,170.18,Switch,1997-02-18,3.36,49.0,4.61,46.0,1.54,35.0,33.0,0.9,aj fletcher
+Kaleio Romero,KO,6,2,0,177.8,65.77,175.26,Switch,1996-04-19,2.6,48.0,3.27,50.0,1.0,8.0,0.0,1.0,kaleio romero
+Mark Kerr,The Smashing Machine,15,11,0,190.5,120.66,,Switch,1968-12-21,0.28,41.0,0.89,28.0,2.92,77.0,0.0,0.4,mark kerr
+Dennis Buzukja,The Great,8,4,0,175.26,65.77,177.8,Switch,1997-10-01,3.3,43.0,4.93,40.0,0.98,30.0,73.0,0.3,dennis buzukja
+Brandon Jenkins,The Human Highlight Reel,15,9,0,182.88,70.31,180.34,Switch,1991-09-30,2.93,41.0,8.05,33.0,0.0,0.0,27.0,0.0,brandon jenkins
+Rickson Gracie,,11,0,0,177.8,83.91,,Switch,1958-11-20,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,rickson gracie
+Carlo Prater,Neo,31,18,1,180.34,70.31,182.88,Switch,1981-06-25,2.03,47.0,4.07,35.0,0.43,9.0,57.0,1.7,carlo prater
+Ricky Rainey,The Sniper,12,6,0,185.42,77.11,195.58,Switch,1983-06-29,2.55,48.0,2.62,46.0,0.95,18.0,55.0,0.0,ricky rainey
+Bill Algeo,Senor Perfecto,18,7,0,182.88,65.77,185.42,Switch,1989-06-09,6.11,52.0,4.41,47.0,0.89,46.0,56.0,0.1,bill algeo
+Matt Mitrione,,12,5,0,190.5,120.2,208.28,Switch,1978-07-15,3.55,50.0,2.79,64.0,0.0,0.0,55.0,0.7,matt mitrione
+Brendan Loughnane,,17,3,0,177.8,65.77,177.8,Switch,1989-12-05,6.23,63.0,6.7,53.0,1.5,30.0,92.0,0.0,brendan loughnane
+Petr Yan,No Mercy,16,5,0,170.18,61.23,170.18,Switch,1993-02-11,5.03,53.0,4.26,59.0,1.71,52.0,85.0,0.1,petr yan
+Tyler Hill,,8,2,0,190.5,77.11,,Switch,1991-08-10,3.64,39.0,5.33,47.0,0.0,0.0,0.0,0.0,tyler hill
+Ryan MacDonald,Main Event,10,2,0,180.34,61.23,180.34,Switch,1993-03-18,2.28,29.0,6.49,45.0,0.0,0.0,0.0,0.0,ryan macdonald
+Shannon Ross,The Turkish Delight,13,8,0,167.64,56.7,167.64,Switch,1989-05-12,6.58,38.0,8.93,52.0,0.0,0.0,100.0,0.0,shannon ross
+Kevin Syler,El Nino Bala,10,1,0,175.26,70.31,180.34,Switch,1993-07-29,5.6,69.0,4.03,48.0,1.0,40.0,77.0,2.0,kevin syler
+Manuel Torres,El Loco,14,2,0,177.8,70.31,185.42,Switch,1995-03-25,9.66,58.0,3.76,56.0,0.0,0.0,100.0,0.0,manuel torres
+Chelsea Hackett,Hammer,3,1,1,162.56,56.7,167.64,Switch,1998-08-16,2.58,51.0,4.85,46.0,0.0,0.0,57.0,0.0,chelsea hackett
+Jonas Bilharinho,,9,1,1,180.34,65.77,190.5,Switch,1990-05-22,3.71,60.0,3.36,57.0,0.0,0.0,100.0,0.0,jonas bilharinho
+Cory Hendricks,,3,1,0,190.5,92.99,,Switch,1988-05-10,3.13,39.0,4.07,42.0,0.0,0.0,100.0,0.0,cory hendricks
+Lv Zhenhong,,16,6,0,172.72,65.77,170.18,Switch,1993-06-25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,lv zhenhong
+Serhiy Sidey,,10,1,0,180.34,61.23,182.88,Switch,1996-07-04,4.52,35.0,4.52,42.0,0.0,0.0,0.0,0.0,serhiy sidey
+Yuma Horiuchi,Ichiban,9,5,0,167.64,56.7,170.18,Switch,1997-09-22,3.73,30.0,5.0,35.0,2.0,16.0,0.0,2.0,yuma horiuchi
+Aalon Cruz,,8,4,0,182.88,65.77,198.12,Switch,1989-09-20,7.58,39.0,8.88,58.0,0.0,0.0,0.0,0.0,aalon cruz
+Christian Leroy Duncan,CLD,9,1,0,187.96,83.91,200.66,Switch,1995-07-24,5.06,59.0,4.68,47.0,0.0,0.0,50.0,0.0,christian leroy duncan
+Dwight Joseph,,5,0,0,167.64,61.23,,Switch,1989-08-16,2.6,52.0,2.87,55.0,1.0,20.0,20.0,1.0,dwight joseph
+Ronnie Lawrence,The Heat,8,2,0,172.72,61.23,172.72,Switch,1992-06-13,2.78,56.0,1.75,52.0,6.75,77.0,45.0,0.2,ronnie lawrence
+Mohammad Yahya,The UAE Warrior,12,4,0,175.26,70.31,185.42,Switch,1994-05-23,2.87,46.0,4.07,37.0,1.0,100.0,42.0,1.0,mohammad yahya
+Andrew Todhunter,The Sniper,8,0,0,182.88,83.91,,Switch,1987-11-30,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,andrew todhunter
+Pete Rodriguez,Dead Game,5,1,0,175.26,70.31,180.34,Switch,1996-11-13,10.37,46.0,11.69,44.0,0.0,0.0,100.0,0.0,pete rodriguez
+KB Bhullar,The Bengal,8,2,0,193.04,83.91,198.12,Switch,1991-10-12,4.31,49.0,5.39,45.0,0.0,0.0,0.0,0.0,kb bhullar
+Tarec Saffiedine,Sponge,16,7,0,177.8,77.11,177.8,Switch,1986-09-06,4.05,47.0,3.06,62.0,0.52,36.0,84.0,0.1,tarec saffiedine
+Matthew Semelsberger,Semi The Jedi,11,6,0,185.42,77.11,190.5,Switch,1992-11-23,4.06,43.0,4.36,55.0,1.02,58.0,50.0,0.1,matthew semelsberger
+Taylor Johnson,Tombstone,5,1,0,182.88,83.91,187.96,Switch,1990-11-09,5.09,60.0,1.13,33.0,8.49,100.0,100.0,0.0,taylor johnson
+Juan Mott,,3,4,0,182.88,86.18,,Switch,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,juan mott
+Brogan Walker,The Bear,8,4,0,162.56,56.7,170.18,Switch,1988-08-02,2.04,30.0,3.7,47.0,0.0,0.0,11.0,0.0,brogan walker
+Zhang Weili,Magnum,24,3,0,162.56,52.16,160.02,Switch,1989-08-13,5.94,51.0,3.44,53.0,2.29,42.0,66.0,0.4,zhang weili
+Tony Kelley,Primetime,8,3,0,175.26,61.23,177.8,Switch,1987-01-21,5.55,47.0,4.85,45.0,0.0,0.0,52.0,1.4,tony kelley
+Israel Adesanya,The Last Stylebender,24,3,0,193.04,83.91,203.2,Switch,1989-07-22,3.93,48.0,3.11,56.0,0.05,14.0,77.0,0.1,israel adesanya
+Amiran Gogoladze,,14,3,0,185.42,77.11,187.96,Switch,1997-12-09,1.64,66.0,0.82,0.0,0.0,0.0,0.0,0.0,amiran gogoladze
+Billy Pasulatan,,10,3,0,165.1,56.7,167.64,Switch,1991-08-07,0.65,20.0,5.22,48.0,0.0,0.0,0.0,4.9,billy pasulatan
+Anshul Jubli,King of Lions,7,1,0,182.88,70.31,175.26,Switch,1995-01-13,6.48,46.0,5.61,51.0,0.82,18.0,63.0,0.4,anshul jubli
+Daron Cruickshank,Detroit Superstar,18,10,0,172.72,70.31,182.88,Switch,1985-06-11,2.88,38.0,2.98,57.0,2.04,41.0,60.0,0.2,daron cruickshank
+Jake Lindsey,The Librarian,12,7,0,180.34,70.31,,Switch,1986-06-21,3.44,52.0,4.01,46.0,0.65,33.0,50.0,0.0,jake lindsey
+Andre Petroski,,10,3,0,182.88,83.91,185.42,Switch,1991-06-12,3.61,51.0,3.03,51.0,4.48,54.0,71.0,2.5,andre petroski
+Angelo Trevino,Baby Monsta,7,3,0,180.34,77.11,,Switch,1993-06-10,5.19,54.0,3.9,47.0,0.0,0.0,100.0,0.0,angelo trevino
+Zach Reese,Savage,6,1,0,193.04,83.91,195.58,Switch,1994-03-24,3.93,66.0,6.56,28.0,0.0,0.0,0.0,9.8,zach reese
+Kaiwen,The Underdog,12,5,0,175.26,65.77,182.88,Switch,1995-10-16,4.57,54.0,3.65,57.0,0.0,0.0,90.0,0.0,kaiwen
+Jack Della Maddalena,,16,2,0,180.34,77.11,185.42,Switch,1996-09-10,7.2,53.0,4.83,67.0,0.27,20.0,82.0,0.3,jack della maddalena
+Shuya Kamikubo,Stealth,13,2,1,165.1,61.23,172.72,Switch,1993-04-12,3.83,54.0,4.9,47.0,1.5,15.0,0.0,0.5,shuya kamikubo
+Niklas Stolze,Green Mask,12,6,0,185.42,70.31,187.96,Switch,1992-12-28,2.12,48.0,2.25,49.0,0.66,100.0,55.0,0.7,niklas stolze
+Jonathan Meunier,District,8,1,0,190.5,77.11,,Switch,1987-08-04,3.47,50.0,1.43,69.0,0.58,33.0,58.0,0.0,jonathan meunier
+John Castaneda,Sexy Mexi,21,6,0,167.64,61.23,180.34,Switch,1991-12-18,4.79,50.0,4.99,56.0,1.92,37.0,71.0,0.2,john castaneda
+Shaun Etchell,The Buzzsaw,7,3,0,170.18,56.7,172.72,Switch,1993-08-05,0.0,0.0,0.0,0.0,4.37,100.0,100.0,0.0,shaun etchell
+Terrance McKinney,T. Wrecks,15,6,0,177.8,70.31,185.42,Switch,1994-09-15,4.46,52.0,2.51,44.0,3.52,36.0,85.0,1.0,terrance mckinney
+Payton Talbott,,7,0,0,177.8,61.23,177.8,Switch,1998-09-09,6.66,51.0,3.12,51.0,0.0,0.0,88.0,0.6,payton talbott
+Sean O'Malley,Sugar,17,1,0,180.34,61.23,182.88,Switch,1994-10-24,7.25,61.0,3.51,61.0,0.43,42.0,62.0,0.4,sean o'malley
+Maycee Barber,The Future,13,2,0,165.1,56.7,165.1,Switch,1998-05-18,4.6,52.0,2.72,54.0,1.14,35.0,45.0,0.1,maycee barber
+Shin Haraguchi,,7,0,0,167.64,70.31,172.72,Switch,1998-11-27,2.99,70.0,0.65,39.0,14.01,80.0,0.0,0.0,shin haraguchi
+Dwight Grant,The Body Snatcher,11,6,0,185.42,83.91,193.04,Switch,1984-09-14,3.29,36.0,2.66,60.0,0.61,100.0,66.0,0.0,dwight grant
+James Moontasri,Moon Walker,9,5,0,177.8,77.11,180.34,Switch,1988-04-10,2.39,48.0,3.86,40.0,0.0,0.0,79.0,0.2,james moontasri
+Kevin Jackson,,4,2,0,177.8,90.26,,Switch,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,kevin jackson
+Devin Smyth,,4,2,0,177.8,77.11,182.88,Switch,1995-07-21,2.6,68.0,6.73,25.0,4.0,26.0,100.0,0.0,devin smyth
+Raheam Forest,Rambo,7,2,0,180.34,77.11,185.42,Switch,1997-07-11,5.32,38.0,12.15,42.0,0.0,0.0,0.0,0.0,raheam forest
+Nate Smith,The Savage,6,1,0,167.64,56.7,175.26,Switch,1995-04-09,1.28,38.0,2.04,35.0,0.0,0.0,33.0,2.3,nate smith
+Dylan Potter,Big Poppa,10,6,0,187.96,102.06,195.58,Switch,1995-01-14,3.1,48.0,5.78,46.0,0.0,0.0,33.0,1.1,dylan potter
+Dricus Du Plessis,Stillknocks,20,2,0,185.42,83.91,193.04,Switch,1994-01-14,6.95,55.0,3.79,53.0,2.72,50.0,40.0,1.1,dricus du plessis
+Mitch Raposo,,5,1,0,165.1,56.7,162.56,Switch,1998-10-16,2.57,25.0,3.18,56.0,3.67,66.0,0.0,0.0,mitch raposo
+Dylan Budka,The Mindless Hulk,7,2,0,182.88,83.91,190.5,Switch,2000-01-14,1.47,66.0,0.73,52.0,2.0,28.0,100.0,1.0,dylan budka
+Charles Johnson,InnerG,13,6,0,175.26,56.7,177.8,Switch,1991-01-10,4.34,55.0,3.27,54.0,0.19,14.0,62.0,0.2,charles johnson
+Joshua Wang-Kim,Twin Dragon,5,2,0,175.26,61.23,180.34,Switch,1992-11-16,2.95,40.0,4.43,60.0,1.17,100.0,66.0,0.0,joshua wang-kim
+Jack May,The Outlaw,9,3,0,203.2,115.67,,Switch,1981-04-14,1.52,38.0,3.29,33.0,0.91,33.0,20.0,0.0,jack may
+Tresean Gore,Mr. Vicious,5,2,0,182.88,83.91,190.5,Switch,1994-06-21,3.04,53.0,6.13,47.0,3.04,71.0,81.0,1.2,tresean gore
+Kyle Sturgeon,,0,1,0,190.5,102.06,,Switch,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,kyle sturgeon
+Steven Nguyen,The Ninja,9,1,0,180.34,65.77,185.42,Switch,1993-05-19,8.29,43.0,7.49,63.0,0.0,0.0,83.0,0.0,steven nguyen
+Daniel Lacerda,Miojo,11,5,0,167.64,56.7,177.8,Switch,1996-06-05,4.16,47.0,8.7,34.0,1.91,42.0,0.0,1.3,daniel lacerda
+Jeremy Kimball,,15,8,0,182.88,92.99,182.88,Switch,1991-01-03,2.81,46.0,3.84,49.0,1.41,20.0,50.0,0.0,jeremy kimball
+Tamdan McCrory,The Barncat,14,5,0,193.04,83.91,193.04,Switch,1986-11-05,2.07,49.0,1.6,46.0,2.28,50.0,33.0,2.5,tamdan mccrory
+Randy Costa,The Zohan,6,4,0,175.26,61.23,185.42,Switch,1994-07-06,6.53,46.0,7.58,58.0,0.0,0.0,50.0,0.0,randy costa
+Trevor Peek,,9,1,0,175.26,70.31,177.8,Switch,1995-01-09,5.09,56.0,4.37,44.0,1.76,50.0,51.0,0.0,trevor peek
+Calen Born,,7,1,0,172.72,77.11,182.88,Switch,1988-05-24,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,calen born
+Gabriel Checco,Zangief,10,2,0,185.42,83.91,,Switch,1986-04-03,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,gabriel checco
+Vinicius Oliveira,Lok Dog,19,3,0,175.26,61.23,177.8,Switch,1995-11-30,9.56,49.0,2.31,61.0,0.0,0.0,100.0,0.0,vinicius oliveira
+Gadzhi Omargadzhiev,,13,2,0,185.42,77.11,180.34,Switch,1993-02-24,1.8,39.0,2.2,39.0,1.35,30.0,60.0,0.5,gadzhi omargadzhiev
+Keisuke Sasu,Sasuke,11,3,1,165.1,65.77,175.26,Switch,1994-09-30,2.76,49.0,2.42,48.0,3.76,40.0,61.0,1.9,keisuke sasu
+Korey Kuppe,,8,4,0,195.58,77.11,195.58,Switch,1989-01-23,0.73,73.0,1.33,31.0,0.0,0.0,69.0,1.0,korey kuppe
+Oliver Enkamp,,7,2,0,182.88,77.11,195.58,Switch,1991-08-10,2.38,36.0,3.55,37.0,0.87,16.0,0.0,0.0,oliver enkamp
+Victor Rodriguez,Vicious,7,4,0,165.1,56.7,170.18,Switch,1992-09-05,1.59,37.0,6.11,50.0,0.0,0.0,0.0,0.0,victor rodriguez
+Daniel Zellhuber,Golden Boy,14,1,0,185.42,70.31,195.58,Switch,1999-07-07,5.26,39.0,4.79,53.0,0.28,33.0,94.0,0.3,daniel zellhuber
+Jonathan Pearce,JSP,14,5,0,182.88,65.77,180.34,Switch,1992-05-01,5.6,56.0,3.35,55.0,5.29,53.0,56.0,0.8,jonathan pearce
+Jeremiah Wells,,12,3,1,175.26,77.11,187.96,Switch,1986-10-30,2.52,45.0,1.14,47.0,3.89,43.0,100.0,1.2,jeremiah wells
+Dan Hooker,The Hangman,23,12,0,182.88,70.31,190.5,Switch,1990-02-13,5.08,48.0,4.76,51.0,0.79,34.0,80.0,0.4,dan hooker
+Ben Nguyen,Ten,16,8,0,165.1,56.7,165.1,Switch,1988-08-03,3.51,40.0,3.01,59.0,0.25,33.0,63.0,1.0,ben nguyen
+TJ Brown,Downtown,17,11,0,175.26,65.77,182.88,Switch,1990-05-22,3.37,44.0,2.89,49.0,3.41,57.0,36.0,1.3,tj brown
+Shohei Nose,,10,4,2,167.64,61.23,172.72,Switch,1997-10-19,2.48,40.0,3.61,53.0,3.23,17.0,0.0,4.8,shohei nose
+Jared Cannonier,The Killa Gorilla,17,6,0,180.34,83.91,195.58,Switch,1984-03-16,4.68,52.0,4.13,59.0,0.44,42.0,63.0,0.0,jared cannonier
+Marlon Vera,Chito,21,8,1,172.72,61.23,177.8,Switch,1992-12-02,4.37,50.0,5.16,51.0,0.58,39.0,70.0,0.9,marlon vera
+Alexander Munoz,,7,2,0,175.26,70.31,182.88,Switch,1990-02-27,3.7,42.0,4.73,55.0,3.0,40.0,100.0,0.0,alexander munoz
+Jay Perrin,The Joker,10,7,0,170.18,61.23,170.18,Switch,1993-06-15,3.71,46.0,3.9,44.0,2.83,52.0,58.0,0.0,jay perrin
+Alex Gorgees,Hitman,6,1,0,187.96,70.31,187.96,Switch,1995-08-11,0.67,32.0,2.27,38.0,0.0,0.0,54.0,0.0,alex gorgees
+Steven Koslow,Obi Won Shinobi The Pillow,6,1,0,170.18,56.7,175.26,Switch,1997-01-22,0.77,37.0,3.73,40.0,5.28,55.0,0.0,1.1,steven koslow
+Ashiek Ajim,Peak Physique,6,2,0,172.72,61.23,180.34,Switch,1994-06-19,5.0,40.0,11.25,25.0,0.0,0.0,0.0,0.0,ashiek ajim
+Chris Birchler,The Big Buck,7,4,0,190.5,92.99,,Switch,1987-06-05,9.35,46.0,14.83,35.0,0.0,0.0,0.0,0.0,chris birchler
+Sasha Palatnikov,,6,4,0,185.42,77.11,182.88,Switch,1989-03-15,6.69,53.0,5.44,52.0,0.72,100.0,70.0,0.0,sasha palatnikov
+Cody McKenzie,,16,10,0,182.88,70.31,182.88,Switch,1987-12-16,1.74,34.0,2.5,67.0,2.5,25.0,14.0,2.5,cody mckenzie
+Kyle Nelson,The Monster,15,5,1,180.34,65.77,180.34,Switch,1991-04-20,3.46,44.0,4.56,52.0,1.15,20.0,73.0,0.7,kyle nelson
+Dmitrii Smoliakov,The Lifeguard,9,3,0,187.96,114.76,187.96,Switch,1982-08-05,1.44,42.0,3.81,55.0,0.0,0.0,75.0,0.0,dmitrii smoliakov
+Justin Burlinson,,6,1,0,185.42,77.11,187.96,Switch,1997-05-19,1.24,40.0,3.09,61.0,0.0,0.0,100.0,9.3,justin burlinson
+Brian Kelleher,Boom,24,14,0,167.64,61.23,167.64,Switch,1986-08-19,3.36,41.0,4.61,54.0,1.79,42.0,60.0,0.7,brian kelleher
+Mario Bautista,,13,2,0,175.26,61.23,175.26,Switch,1993-07-01,5.32,51.0,4.2,53.0,2.72,50.0,56.0,1.3,mario bautista
+Jarred Brooks,The Monkey God,13,2,0,160.02,56.7,157.48,Switch,1993-05-02,2.12,46.0,1.66,62.0,4.54,57.0,69.0,0.6,jarred brooks
+Victor Henry,La Mangosta,23,6,0,170.18,61.23,172.72,Switch,1987-05-04,8.26,54.0,5.95,47.0,0.0,0.0,78.0,0.6,victor henry
+Keisuke Fujiwara,,17,12,5,167.64,63.05,,Switch,,0.73,44.0,1.2,47.0,0.0,0.0,23.0,2.5,keisuke fujiwara
+Jack Jenkins,Phar,12,3,0,170.18,65.77,172.72,Switch,1993-11-03,4.43,61.0,3.07,59.0,2.56,69.0,75.0,0.0,jack jenkins
+Modestas Bukauskas,The Baltic Gladiator,15,6,0,190.5,92.99,198.12,Switch,1994-02-10,3.28,41.0,3.87,50.0,0.0,0.0,71.0,0.0,modestas bukauskas
+Cheyanne Vlismas,The Warrior Princess,7,3,0,160.02,52.16,160.02,Switch,1995-06-25,4.93,50.0,2.57,64.0,0.25,33.0,66.0,0.2,cheyanne vlismas
+Kamaru Usman,The Nigerian Nightmare,20,4,0,182.88,77.11,193.04,Switch,1987-05-11,4.36,52.0,2.74,54.0,2.82,45.0,89.0,0.1,kamaru usman
+Tae Hyun Bang,Supernatural,18,10,0,175.26,70.31,180.34,Switch,1983-04-15,2.72,38.0,2.07,66.0,0.49,33.0,57.0,0.5,tae hyun bang
+Blake Bilder,El Animal,8,1,1,172.72,65.77,172.72,Switch,1990-07-12,4.96,50.0,4.54,56.0,0.45,10.0,100.0,0.9,blake bilder
+Hans Nijman,,9,7,0,182.88,113.4,,Switch,1959-10-23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,hans nijman
+Manuel Gaxhja,,7,0,0,172.72,70.31,,Switch,1997-07-23,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,manuel gaxhja
+Cameron VanCamp,Jumpman,15,7,1,187.96,70.31,187.96,Switch,1993-04-27,5.31,47.0,6.41,40.0,0.0,0.0,0.0,0.0,cameron vancamp
+Zachary Borrego,The Dragon,3,1,0,187.96,83.91,198.12,Switch,1996-07-18,0.0,0.0,1.94,33.0,0.0,0.0,0.0,0.0,zachary borrego
+Galore Bofando,,5,3,0,180.34,77.11,182.88,Switch,1982-05-22,3.63,45.0,3.63,54.0,2.37,100.0,50.0,0.0,galore bofando
+Kwan Ho Kwak,,9,2,0,165.1,61.23,,Switch,1989-06-18,3.29,41.0,3.45,47.0,0.78,100.0,26.0,0.0,kwan ho kwak
+Grant Dawson,KGD,20,2,1,177.8,70.31,182.88,Switch,1994-02-20,2.97,51.0,2.27,45.0,3.68,36.0,40.0,1.5,grant dawson
+Ailin Perez,Fiona,9,2,0,165.1,61.23,167.64,Switch,1994-10-05,2.96,55.0,1.18,57.0,4.89,50.0,75.0,0.0,ailin perez
+Brian Ortega,T-City,15,3,0,172.72,65.77,175.26,Switch,1991-02-21,4.19,38.0,6.66,49.0,0.95,23.0,56.0,1.2,brian ortega
+Will Chope,The Kill,34,13,0,193.04,65.77,,Switch,1990-09-08,4.43,27.0,9.93,46.0,0.0,0.0,0.0,0.0,will chope
+Dylan Andrews,The Villain,18,7,0,185.42,83.91,187.96,Switch,1979-11-15,2.21,50.0,2.72,46.0,2.83,50.0,57.0,0.4,dylan andrews
+Anthony Macias,Mad Dog,26,18,0,175.26,83.91,,Switch,,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,anthony macias
+Blood Diamond,,3,3,0,180.34,77.11,193.04,Switch,1988-07-10,3.12,55.0,2.17,48.0,0.0,0.0,73.0,0.0,blood diamond
+Gabe Green,Gifted,11,5,0,177.8,77.11,185.42,Switch,1993-05-02,6.28,45.0,6.95,47.0,0.83,50.0,53.0,0.3,gabe green
+Gregory Bouchelaghem,,5,4,0,187.96,83.01,,Switch,,0.27,21.0,1.53,36.0,0.0,0.0,50.0,0.0,gregory bouchelaghem
+Kiefer Crosbie,BDK,10,4,0,180.34,77.11,177.8,Switch,1990-04-05,8.1,66.0,6.02,50.0,0.0,0.0,0.0,0.0,kiefer crosbie
+Evan Elder,The Phenom,8,2,0,177.8,70.31,182.88,Switch,1997-04-11,4.75,48.0,5.0,57.0,0.74,22.0,28.0,0.4,evan elder
