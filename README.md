@@ -1,3 +1,4 @@
+![Header Image](assets/header.png)
 
 # Analysis of UFC Fighters
 
