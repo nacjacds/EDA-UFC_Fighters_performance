@@ -46,8 +46,7 @@ In summary, this project aims to shed more light on the factors that contribute 
 [![Email](https://img.icons8.com/fluent/48/000000/email.png)](mailto:fiodornac@gmail.com)
 [![LinkedIn](https://img.icons8.com/fluent/48/000000/linkedin.png)](https://www.linkedin.com/in/jacquot/)
 [![Website](https://img.icons8.com/fluent/48/000000/domain.png)](https://www.nachojacquot.com)
-[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)]([https://github.com/nacjacds/](https://github.com/nacjacds/)
-
+[![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/nacjacds.com)
 
 Project Link: [https://github.com/nacjacds/EDA-UFC_Fighters_performance/](https://github.com/nacjacds/EDA-UFC_Fighters_performance/)
 
