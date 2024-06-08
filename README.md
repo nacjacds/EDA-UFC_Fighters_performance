@@ -29,13 +29,13 @@ In summary, this project aims to shed more light on the factors that contribute 
 
 ## Built With
 
-* [Python](https://www.python.org/) - The programming language.
-* [Jupyter Notebook](https://jupyter.org/) - A great server-client application that allows editing and running notebook documents via a web browser
-* [Visual Code Studio](https://code.visualstudio.com/) - A fantastic source-code editor
-* [Pandas](https://pandas.pydata.org/) - Used to work with data sets
-* [Numpy](https://numpy.org/) - Used to generate Mathematical operations on arrays
-* [Matplotlib](https://matplotlib.org/) - Used to generate Data Visualisation
-* [Seaborn](https://seaborn.pydata.org/) - Used to generate Data Visualisation
+* [Python](https://www.python.org/) - Python - The magical snake charmer of the coding world! 🐍✨
+* [Jupyter Notebook](https://jupyter.org/) - My buddy, a magical online playground where I edit and run my notebooks.
+* [Visual Code Studio](https://code.visualstudio.com/) - - The Swiss Army knife of source-code editors; fantastic and ready for action!
+* [Pandas](https://pandas.pydata.org/) - The data tamer, turning unruly datasets into well-behaved pandas.
+* [Numpy](https://numpy.org/) - The math magician for arrays, making mathematical operations as easy as pie.
+* [Matplotlib](https://matplotlib.org/) - The Picasso of data visualization, painting data in beautiful charts.
+* [Seaborn](https://seaborn.pydata.org/) - Matplotlib's cooler cousin, data visualizations to the next level!
 
 
 <!-- CONTACT -->
