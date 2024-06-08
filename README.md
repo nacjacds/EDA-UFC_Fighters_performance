@@ -30,7 +30,7 @@ In summary, this project aims to shed more light on the factors that contribute 
 
 ## Built With
 
-* [![Python](https://img.icons8.com/fluent/48/000000/python.png)](https://www.python.org/doc/) - Python - The magical snake charmer of the coding world! 🐍✨
+* [![Python](https://img.icons8.com/fluent/24/000000/python.png)](https://www.python.org/doc/) - Python - The magical snake charmer of the coding world! 🐍✨
 * [Python](https://www.python.org/) - Python - The magical snake charmer of the coding world! 🐍✨
 * [Jupyter Notebook](https://jupyter.org/) - My buddy, a magical online playground where I edit and run my notebooks.
 * [Visual Code Studio](https://code.visualstudio.com/) - - The Swiss Army knife of source-code editors; fantastic and ready for action!
