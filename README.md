@@ -49,9 +49,3 @@ In summary, this project aims to shed more light on the factors that contribute 
 [![GitHub](https://img.icons8.com/fluent/48/000000/github.png)](https://github.com/nacjacds.com)
 
 Project: [https://github.com/nacjacds/EDA-UFC_Fighters_performance/](https://github.com/nacjacds/EDA-UFC_Fighters_performance/)
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-
-[linkedin-url]: https://www.linkedin.com/in/jacquot/
