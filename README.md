@@ -30,14 +30,13 @@ In summary, this project aims to shed more light on the factors that contribute 
 
 ## Built With
 
-* [![Python](https://img.icons8.com/fluent/24/000000/python.png)](https://www.python.org/doc/) - Python - The magical snake charmer of the coding world! 🐍✨
-* [Python](https://www.python.org/) - Python - The magical snake charmer of the coding world! 🐍✨
-* [Jupyter Notebook](https://jupyter.org/) - My buddy, a magical online playground where I edit and run my notebooks.
-* [Visual Code Studio](https://code.visualstudio.com/) - - The Swiss Army knife of source-code editors; fantastic and ready for action!
-* [Pandas](https://pandas.pydata.org/) - The data tamer, turning unruly datasets into well-behaved pandas.
-* [Numpy](https://numpy.org/) - The math magician for arrays, making mathematical operations as easy as pie.
-* [Matplotlib](https://matplotlib.org/) - The Picasso of data visualization, painting data in beautiful charts.
-* [Seaborn](https://seaborn.pydata.org/) - Matplotlib's cooler cousin, data visualizations to the next level!
+* [![Python](https://img.icons8.com/fluent/24/000000/python.png)](https://www.python.org/doc/) Python - The magical snake charmer of the coding world! 🐍✨
+* [![Jupyter](https://img.icons8.com/fluency/48/000000/jupyter.png)](https://jupyter.org/)
+* [![Visual Studio Code](https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
+* [![Pandas](https://img.icons8.com/ios-filled/50/000000/pandas.png)](https://pandas.pydata.org/)
+* [![Numpy](https://img.icons8.com/ios-filled/50/000000/numpy.png)](https://numpy.org/)
+* [![Matplotlib](https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/000000/external-matplotlib-a-comprehensive-library-for-creating-static-animated-and-interactive-visualizations-in-python-logo-bold-tal-revivo.png)](https://matplotlib.org/)
+* [![Seaborn](https://img.icons8.com/ios-filled/50/000000/seaborn.png)](https://seaborn.pydata.org/)
 
 
 <!-- CONTACT -->
