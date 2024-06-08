@@ -44,7 +44,7 @@ In summary, this project aims to shed more light on the factors that contribute 
 
 Nacho Jacquot - [@nachojacquot](https://twitter.com/nachojacquot) - fiodornac@gmail.com
 
-Project Link: [https://github.com/nacjacds](https://github.com/nacjacds)
+Project Link: [https://github.com/nacjacds/EDA-UFC_Fighters_performance/](https://github.com/nacjacds/EDA-UFC_Fighters_performance/)
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
