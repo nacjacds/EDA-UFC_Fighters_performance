@@ -5,7 +5,7 @@ Physical and Technical Characteristics and Their Influence on Performance
 
 ## Description
 
-This project aims to analyse different aspects of UFC fighters to understand how they influence performance. Through an exploratory data analysis (EDA), it seeks to confirm whether certain physical factors and fighting styles have a significant impact on the success of the fighters.
+This project aims to analyse different aspects of UFC fighters to understand how they influence performance. Through an exploratory data analysis (EDA), it seeks to confirm whether certain physical factors and fighting styles have a significant impact on the success of fighters.
 
 ## Main Goals
 The main objectives of this analysis is to confirm whether certain physical aspects and fighting styles influence the performance of UFC fighters. The following hypotheses are proposed:
